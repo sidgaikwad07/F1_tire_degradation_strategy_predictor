@@ -1,0 +1,3179 @@
+{
+  "driver_comparisons": {
+    "driver_statistics": {
+      "Alexander Albon": {
+        "Total_Laps": 1993,
+        "Avg_LapTime": 99.66,
+        "Median_LapTime": 96.411,
+        "Std_LapTime": 20.733,
+        "Best_LapTime": 66.23,
+        "Worst_LapTime": 184.275
+      },
+      "Carlos Sainz": {
+        "Total_Laps": 2199,
+        "Avg_LapTime": 100.274,
+        "Median_LapTime": 94.576,
+        "Std_LapTime": 23.8,
+        "Best_LapTime": 65.066,
+        "Worst_LapTime": 194.874
+      },
+      "Charles Leclerc": {
+        "Total_Laps": 2300,
+        "Avg_LapTime": 100.238,
+        "Median_LapTime": 94.16,
+        "Std_LapTime": 24.598,
+        "Best_LapTime": 65.013,
+        "Worst_LapTime": 196.141
+      },
+      "DEV": {
+        "Total_Laps": 160,
+        "Avg_LapTime": 98.893,
+        "Median_LapTime": 88.538,
+        "Std_LapTime": 17.944,
+        "Best_LapTime": 82.176,
+        "Worst_LapTime": 169.804
+      },
+      "DOO": {
+        "Total_Laps": 10,
+        "Avg_LapTime": 96.349,
+        "Median_LapTime": 86.864,
+        "Std_LapTime": 14.142,
+        "Best_LapTime": 84.615,
+        "Worst_LapTime": 121.853
+      },
+      "Daniel Ricciardo": {
+        "Total_Laps": 2198,
+        "Avg_LapTime": 99.414,
+        "Median_LapTime": 95.697,
+        "Std_LapTime": 20.455,
+        "Best_LapTime": 66.613,
+        "Worst_LapTime": 183.984
+      },
+      "Esteban Ocon": {
+        "Total_Laps": 2280,
+        "Avg_LapTime": 98.423,
+        "Median_LapTime": 95.024,
+        "Std_LapTime": 20.61,
+        "Best_LapTime": 65.726,
+        "Worst_LapTime": 183.314
+      },
+      "FIT": {
+        "Total_Laps": 7,
+        "Avg_LapTime": 93.678,
+        "Median_LapTime": 89.249,
+        "Std_LapTime": 9.133,
+        "Best_LapTime": 86.766,
+        "Worst_LapTime": 110.394
+      },
+      "Fernando Alonso": {
+        "Total_Laps": 2186,
+        "Avg_LapTime": 98.588,
+        "Median_LapTime": 95.402,
+        "Std_LapTime": 20.569,
+        "Best_LapTime": 66.016,
+        "Worst_LapTime": 208.464
+      },
+      "GIO": {
+        "Total_Laps": 24,
+        "Avg_LapTime": 98.758,
+        "Median_LapTime": 89.26,
+        "Std_LapTime": 16.871,
+        "Best_LapTime": 84.317,
+        "Worst_LapTime": 141.739
+      },
+      "George Russell": {
+        "Total_Laps": 2384,
+        "Avg_LapTime": 99.08,
+        "Median_LapTime": 95.203,
+        "Std_LapTime": 21.766,
+        "Best_LapTime": 65.431,
+        "Worst_LapTime": 192.235
+      },
+      "HUL": {
+        "Total_Laps": 236,
+        "Avg_LapTime": 107.352,
+        "Median_LapTime": 100.195,
+        "Std_LapTime": 16.193,
+        "Best_LapTime": 90.543,
+        "Worst_LapTime": 158.081
+      },
+      "KUB": {
+        "Total_Laps": 46,
+        "Avg_LapTime": 103.968,
+        "Median_LapTime": 96.896,
+        "Std_LapTime": 23.017,
+        "Best_LapTime": 81.179,
+        "Worst_LapTime": 155.287
+      },
+      "Kevin Magnussen": {
+        "Total_Laps": 2096,
+        "Avg_LapTime": 100.012,
+        "Median_LapTime": 95.532,
+        "Std_LapTime": 21.287,
+        "Best_LapTime": 65.879,
+        "Worst_LapTime": 186.525
+      },
+      "LAW": {
+        "Total_Laps": 26,
+        "Avg_LapTime": 103.899,
+        "Median_LapTime": 100.986,
+        "Std_LapTime": 15.512,
+        "Best_LapTime": 83.861,
+        "Worst_LapTime": 138.312
+      },
+      "Lance Stroll": {
+        "Total_Laps": 2231,
+        "Avg_LapTime": 100.451,
+        "Median_LapTime": 96.073,
+        "Std_LapTime": 21.868,
+        "Best_LapTime": 66.847,
+        "Worst_LapTime": 187.4
+      },
+      "Lando Norris": {
+        "Total_Laps": 2303,
+        "Avg_LapTime": 99.26,
+        "Median_LapTime": 95.608,
+        "Std_LapTime": 20.969,
+        "Best_LapTime": 66.33,
+        "Worst_LapTime": 198.456
+      },
+      "Lewis Hamilton": {
+        "Total_Laps": 2328,
+        "Avg_LapTime": 98.598,
+        "Median_LapTime": 94.22,
+        "Std_LapTime": 21.782,
+        "Best_LapTime": 65.475,
+        "Worst_LapTime": 207.363
+      },
+      "Max Verstappen": {
+        "Total_Laps": 2299,
+        "Avg_LapTime": 98.797,
+        "Median_LapTime": 94.031,
+        "Std_LapTime": 23.427,
+        "Best_LapTime": 65.092,
+        "Worst_LapTime": 209.883
+      },
+      "Mick Schumacher": {
+        "Total_Laps": 2089,
+        "Avg_LapTime": 99.826,
+        "Median_LapTime": 95.762,
+        "Std_LapTime": 21.01,
+        "Best_LapTime": 66.011,
+        "Worst_LapTime": 196.346
+      },
+      "Nicholas Latifi": {
+        "Total_Laps": 2085,
+        "Avg_LapTime": 99.709,
+        "Median_LapTime": 95.799,
+        "Std_LapTime": 20.74,
+        "Best_LapTime": 67.003,
+        "Worst_LapTime": 194.303
+      },
+      "PAL": {
+        "Total_Laps": 18,
+        "Avg_LapTime": 108.312,
+        "Median_LapTime": 103.75,
+        "Std_LapTime": 8.517,
+        "Best_LapTime": 99.911,
+        "Worst_LapTime": 126.773
+      },
+      "POU": {
+        "Total_Laps": 15,
+        "Avg_LapTime": 110.898,
+        "Median_LapTime": 103.924,
+        "Std_LapTime": 13.018,
+        "Best_LapTime": 100.175,
+        "Worst_LapTime": 135.668
+      },
+      "Pierre Gasly": {
+        "Total_Laps": 2325,
+        "Avg_LapTime": 100.272,
+        "Median_LapTime": 96.088,
+        "Std_LapTime": 21.658,
+        "Best_LapTime": 66.16,
+        "Worst_LapTime": 203.518
+      },
+      "SAR": {
+        "Total_Laps": 35,
+        "Avg_LapTime": 103.577,
+        "Median_LapTime": 101.132,
+        "Std_LapTime": 20.039,
+        "Best_LapTime": 84.246,
+        "Worst_LapTime": 151.917
+      },
+      "SHW": {
+        "Total_Laps": 17,
+        "Avg_LapTime": 122.163,
+        "Median_LapTime": 119.168,
+        "Std_LapTime": 21.889,
+        "Best_LapTime": 98.951,
+        "Worst_LapTime": 161.371
+      },
+      "Sebastian Vettel": {
+        "Total_Laps": 1970,
+        "Avg_LapTime": 99.326,
+        "Median_LapTime": 95.17,
+        "Std_LapTime": 21.489,
+        "Best_LapTime": 66.652,
+        "Worst_LapTime": 186.929
+      },
+      "Sergio Perez": {
+        "Total_Laps": 2265,
+        "Avg_LapTime": 100.61,
+        "Median_LapTime": 95.532,
+        "Std_LapTime": 22.963,
+        "Best_LapTime": 65.404,
+        "Worst_LapTime": 205.833
+      },
+      "VIP": {
+        "Total_Laps": 18,
+        "Avg_LapTime": 104.762,
+        "Median_LapTime": 105.932,
+        "Std_LapTime": 16.909,
+        "Best_LapTime": 84.138,
+        "Worst_LapTime": 139.798
+      },
+      "Valtteri Bottas": {
+        "Total_Laps": 2087,
+        "Avg_LapTime": 98.901,
+        "Median_LapTime": 94.746,
+        "Std_LapTime": 20.638,
+        "Best_LapTime": 66.319,
+        "Worst_LapTime": 195.957
+      },
+      "Yuki Tsunoda": {
+        "Total_Laps": 2231,
+        "Avg_LapTime": 100.513,
+        "Median_LapTime": 96.47,
+        "Std_LapTime": 21.649,
+        "Best_LapTime": 66.463,
+        "Worst_LapTime": 192.002
+      },
+      "Zhou Guanyu": {
+        "Total_Laps": 2070,
+        "Avg_LapTime": 99.959,
+        "Median_LapTime": 96.47,
+        "Std_LapTime": 21.454,
+        "Best_LapTime": 66.901,
+        "Worst_LapTime": 184.224
+      }
+    },
+    "teammate_comparisons": [
+      {
+        "team": "Red Bull Racing",
+        "driver1": "Max Verstappen",
+        "driver2": "Sergio Perez",
+        "driver1_avg": 98.6317027145359,
+        "driver2_avg": 100.3746162065895,
+        "time_gap": 1.7429134920535887,
+        "faster_driver": "Max Verstappen"
+      },
+      {
+        "team": "Ferrari",
+        "driver1": "Charles Leclerc",
+        "driver2": "Carlos Sainz",
+        "driver1_avg": 100.23828652173913,
+        "driver2_avg": 100.27435334242838,
+        "time_gap": 0.03606682068925693,
+        "faster_driver": "Charles Leclerc"
+      },
+      {
+        "team": "Mercedes",
+        "driver1": "Lewis Hamilton",
+        "driver2": "George Russell",
+        "driver1_avg": 98.59768900343643,
+        "driver2_avg": 99.08009773489933,
+        "time_gap": 0.48240873146289687,
+        "faster_driver": "Lewis Hamilton"
+      },
+      {
+        "team": "McLaren",
+        "driver1": "Daniel Ricciardo",
+        "driver2": "Lando Norris",
+        "driver1_avg": 99.41365650591447,
+        "driver2_avg": 99.26026226660876,
+        "time_gap": 0.15339423930571172,
+        "faster_driver": "Lando Norris"
+      },
+      {
+        "team": "Alpine",
+        "driver1": "Fernando Alonso",
+        "driver2": "Esteban Ocon",
+        "driver1_avg": 98.58774290942361,
+        "driver2_avg": 98.42319210526315,
+        "time_gap": 0.16455080416045575,
+        "faster_driver": "Esteban Ocon"
+      },
+      {
+        "team": "AlphaTauri",
+        "driver1": "Pierre Gasly",
+        "driver2": "Yuki Tsunoda",
+        "driver1_avg": 100.27192129032258,
+        "driver2_avg": 100.51339668310175,
+        "time_gap": 0.24147539277916508,
+        "faster_driver": "Pierre Gasly"
+      },
+      {
+        "team": "Aston Martin",
+        "driver1": "Lance Stroll",
+        "driver2": "Sebastian Vettel",
+        "driver1_avg": 100.45103227252355,
+        "driver2_avg": 99.3257426395939,
+        "time_gap": 1.1252896329296505,
+        "faster_driver": "Sebastian Vettel"
+      },
+      {
+        "team": "Williams",
+        "driver1": "Alexander Albon",
+        "driver2": "Nicholas Latifi",
+        "driver1_avg": 99.66045007526343,
+        "driver2_avg": 99.7093103117506,
+        "time_gap": 0.048860236487172415,
+        "faster_driver": "Alexander Albon"
+      },
+      {
+        "team": "Alfa Romeo",
+        "driver1": "Zhou Guanyu",
+        "driver2": "Valtteri Bottas",
+        "driver1_avg": 99.959061352657,
+        "driver2_avg": 98.90109678965021,
+        "time_gap": 1.0579645630067915,
+        "faster_driver": "Valtteri Bottas"
+      },
+      {
+        "team": "Haas",
+        "driver1": "Kevin Magnussen",
+        "driver2": "Mick Schumacher",
+        "driver1_avg": 100.01199809160305,
+        "driver2_avg": 99.82646385830542,
+        "time_gap": 0.18553423329763064,
+        "faster_driver": "Mick Schumacher"
+      }
+    ],
+    "circuit_performance": {
+      "Alexander Albon": {
+        "Australia": 96.39928571428571,
+        "Austria": 74.20024545454545,
+        "Azerbaijan": 120.06055555555557,
+        "Bahrain": 107.89778301886793,
+        "Belgium": 121.13970329670329,
+        "Brazil": 83.8154,
+        "Canada": 89.39949350649351,
+        "Emilia Romagna": 91.88437078651685,
+        "France": 111.44427192982457,
+        "Great Britain": 113.2633,
+        "Hungary": 94.86491729323308,
+        "Italy": 96.799775,
+        "Japan": 113.75239130434782,
+        "Mexico": 88.13382978723403,
+        "Miami": 104.48085046728973,
+        "Monaco": 92.67388311688312,
+        "Netherlands": 86.01302097902098,
+        "Saudi Arabia": 108.61820535714286,
+        "Singapore": 129.56908974358973,
+        "Spain": 91.92539682539683,
+        "United States": 113.90382474226804
+      },
+      "Carlos Sainz": {
+        "Australia": 101.34068918918919,
+        "Austria": 75.5256050420168,
+        "Azerbaijan": 127.29489743589744,
+        "Bahrain": 107.72546666666668,
+        "Belgium": 122.78965168539327,
+        "Brazil": 83.07523913043478,
+        "Canada": 89.47279761904763,
+        "Emilia Romagna": 93.53124,
+        "France": 114.32349523809525,
+        "Great Britain": 102.71657894736842,
+        "Hungary": 96.95822602739726,
+        "Italy": 96.1579732142857,
+        "Japan": 114.400265625,
+        "Mexico": 88.66171551724138,
+        "Miami": 108.8677619047619,
+        "Monaco": 93.21813207547169,
+        "Netherlands": 85.83702702702702,
+        "Saudi Arabia": 106.50382692307691,
+        "Singapore": 126.90517322834646,
+        "Spain": 90.73129213483146,
+        "United States": 116.96945454545454
+      },
+      "Charles Leclerc": {
+        "Australia": 96.91712598425197,
+        "Austria": 74.23378676470588,
+        "Azerbaijan": 125.13877272727272,
+        "Bahrain": 108.14845614035089,
+        "Belgium": 124.06704494382024,
+        "Brazil": 83.47280714285714,
+        "Canada": 87.36160740740742,
+        "Emilia Romagna": 91.30223008849558,
+        "France": 119.5267619047619,
+        "Great Britain": 102.78881578947369,
+        "Hungary": 96.61698601398601,
+        "Italy": 97.56388392857143,
+        "Japan": 116.06817721518988,
+        "Mexico": 89.29750877192981,
+        "Miami": 107.82734074074075,
+        "Monaco": 92.72246666666668,
+        "Netherlands": 85.10805442176871,
+        "Saudi Arabia": 107.05400917431193,
+        "Singapore": 127.58881081081081,
+        "Spain": 94.49092,
+        "United States": 114.61736559139784
+      },
+      "DEV": {
+        "Australia": NaN,
+        "Austria": NaN,
+        "Azerbaijan": NaN,
+        "Bahrain": NaN,
+        "Belgium": NaN,
+        "Brazil": NaN,
+        "Canada": NaN,
+        "Emilia Romagna": NaN,
+        "France": 113.6309,
+        "Great Britain": NaN,
+        "Hungary": NaN,
+        "Italy": 97.27747474747474,
+        "Japan": NaN,
+        "Mexico": 95.53825,
+        "Miami": NaN,
+        "Monaco": NaN,
+        "Netherlands": NaN,
+        "Saudi Arabia": NaN,
+        "Singapore": NaN,
+        "Spain": 95.6482,
+        "United States": NaN
+      },
+      "DOO": {
+        "Australia": NaN,
+        "Austria": NaN,
+        "Azerbaijan": NaN,
+        "Bahrain": NaN,
+        "Belgium": NaN,
+        "Brazil": NaN,
+        "Canada": NaN,
+        "Emilia Romagna": NaN,
+        "France": NaN,
+        "Great Britain": NaN,
+        "Hungary": NaN,
+        "Italy": NaN,
+        "Japan": NaN,
+        "Mexico": 96.34920000000001,
+        "Miami": NaN,
+        "Monaco": NaN,
+        "Netherlands": NaN,
+        "Saudi Arabia": NaN,
+        "Singapore": NaN,
+        "Spain": NaN,
+        "United States": NaN
+      },
+      "Daniel Ricciardo": {
+        "Australia": 94.77588429752066,
+        "Austria": 75.10335294117647,
+        "Azerbaijan": 118.47826050420169,
+        "Bahrain": 105.9001214953271,
+        "Belgium": 123.37302272727271,
+        "Brazil": 83.48654545454545,
+        "Canada": 89.41965625,
+        "Emilia Romagna": 91.80922115384615,
+        "France": 112.47322727272727,
+        "Great Britain": 102.12125373134329,
+        "Hungary": 91.12212408759125,
+        "Italy": 93.84593220338982,
+        "Japan": 113.60195774647887,
+        "Mexico": 87.30753271028038,
+        "Miami": 103.36352586206897,
+        "Monaco": 90.08409090909092,
+        "Netherlands": 83.99775384615386,
+        "Saudi Arabia": 108.1859081632653,
+        "Singapore": 126.59363302752294,
+        "Spain": 92.51111904761905,
+        "United States": 112.36339999999998
+      },
+      "Esteban Ocon": {
+        "Australia": 94.3603671875,
+        "Austria": 75.74434453781512,
+        "Azerbaijan": 119.60244545454546,
+        "Bahrain": 107.1875267857143,
+        "Belgium": 120.20670652173912,
+        "Brazil": 82.8493455882353,
+        "Canada": 88.97022012578616,
+        "Emilia Romagna": 91.5377052631579,
+        "France": 113.12285217391305,
+        "Great Britain": 100.13680000000001,
+        "Hungary": 94.01655714285714,
+        "Italy": 94.40516393442623,
+        "Japan": 114.83249295774648,
+        "Mexico": 88.33024770642201,
+        "Miami": 104.17223711340206,
+        "Monaco": 89.87770103092784,
+        "Netherlands": 83.80130136986301,
+        "Saudi Arabia": 105.63291803278689,
+        "Singapore": 125.8016875,
+        "Spain": 91.56932954545454,
+        "United States": 113.46653260869566
+      },
+      "FIT": {
+        "Australia": NaN,
+        "Austria": NaN,
+        "Azerbaijan": NaN,
+        "Bahrain": NaN,
+        "Belgium": NaN,
+        "Brazil": NaN,
+        "Canada": NaN,
+        "Emilia Romagna": NaN,
+        "France": NaN,
+        "Great Britain": NaN,
+        "Hungary": NaN,
+        "Italy": NaN,
+        "Japan": NaN,
+        "Mexico": 93.678,
+        "Miami": NaN,
+        "Monaco": NaN,
+        "Netherlands": NaN,
+        "Saudi Arabia": NaN,
+        "Singapore": NaN,
+        "Spain": NaN,
+        "United States": NaN
+      },
+      "Fernando Alonso": {
+        "Australia": 93.7925350877193,
+        "Austria": 74.4474537037037,
+        "Azerbaijan": 118.45201801801802,
+        "Bahrain": 105.650623853211,
+        "Belgium": 122.80590217391304,
+        "Brazil": 82.54427692307692,
+        "Canada": 88.61723076923077,
+        "Emilia Romagna": 96.04006122448979,
+        "France": 111.68444347826086,
+        "Great Britain": 102.89772857142857,
+        "Hungary": 92.11121641791046,
+        "Italy": 94.29996039603961,
+        "Japan": 113.80295714285715,
+        "Mexico": 87.25097196261682,
+        "Miami": 104.84073553719007,
+        "Monaco": 89.92864948453608,
+        "Netherlands": 83.47689208633093,
+        "Saudi Arabia": 106.42115094339623,
+        "Singapore": 125.61068421052632,
+        "Spain": 90.62202380952381,
+        "United States": 112.26472164948453
+      },
+      "GIO": {
+        "Australia": NaN,
+        "Austria": NaN,
+        "Azerbaijan": NaN,
+        "Bahrain": NaN,
+        "Belgium": NaN,
+        "Brazil": NaN,
+        "Canada": NaN,
+        "Emilia Romagna": NaN,
+        "France": NaN,
+        "Great Britain": NaN,
+        "Hungary": NaN,
+        "Italy": 96.60868181818182,
+        "Japan": NaN,
+        "Mexico": NaN,
+        "Miami": NaN,
+        "Monaco": NaN,
+        "Netherlands": NaN,
+        "Saudi Arabia": NaN,
+        "Singapore": NaN,
+        "Spain": NaN,
+        "United States": 122.401
+      },
+      "George Russell": {
+        "Australia": 93.27288148148148,
+        "Austria": 74.72875652173914,
+        "Azerbaijan": 118.27153333333334,
+        "Bahrain": 107.85086885245902,
+        "Belgium": 120.38496907216495,
+        "Brazil": 82.9778045112782,
+        "Canada": 88.08423717948718,
+        "Emilia Romagna": 91.39351923076923,
+        "France": 116.06853781512605,
+        "Great Britain": 107.30194999999999,
+        "Hungary": 92.92868531468531,
+        "Italy": 95.5233779527559,
+        "Japan": 112.11421176470589,
+        "Mexico": 86.7885045045045,
+        "Miami": 104.4323245614035,
+        "Monaco": 89.1421308411215,
+        "Netherlands": 84.26858108108108,
+        "Saudi Arabia": 105.925,
+        "Singapore": 126.4136974789916,
+        "Spain": 92.51987777777778,
+        "United States": 112.65955882352941
+      },
+      "HUL": {
+        "Australia": NaN,
+        "Austria": NaN,
+        "Azerbaijan": NaN,
+        "Bahrain": 107.10168333333333,
+        "Belgium": NaN,
+        "Brazil": NaN,
+        "Canada": NaN,
+        "Emilia Romagna": NaN,
+        "France": NaN,
+        "Great Britain": NaN,
+        "Hungary": NaN,
+        "Italy": NaN,
+        "Japan": NaN,
+        "Mexico": NaN,
+        "Miami": NaN,
+        "Monaco": NaN,
+        "Netherlands": NaN,
+        "Saudi Arabia": 107.61074137931034,
+        "Singapore": NaN,
+        "Spain": NaN,
+        "United States": NaN
+      },
+      "KUB": {
+        "Australia": NaN,
+        "Austria": NaN,
+        "Azerbaijan": NaN,
+        "Bahrain": NaN,
+        "Belgium": NaN,
+        "Brazil": NaN,
+        "Canada": NaN,
+        "Emilia Romagna": NaN,
+        "France": 119.99257142857142,
+        "Great Britain": NaN,
+        "Hungary": 101.5755,
+        "Italy": NaN,
+        "Japan": NaN,
+        "Mexico": NaN,
+        "Miami": NaN,
+        "Monaco": NaN,
+        "Netherlands": NaN,
+        "Saudi Arabia": NaN,
+        "Singapore": NaN,
+        "Spain": 92.33975000000001,
+        "United States": NaN
+      },
+      "Kevin Magnussen": {
+        "Australia": 94.9746261682243,
+        "Austria": 74.24291525423729,
+        "Azerbaijan": 119.70427173913043,
+        "Bahrain": 108.28497345132743,
+        "Belgium": 124.1727894736842,
+        "Brazil": 83.2413125,
+        "Canada": 90.34335172413793,
+        "Emilia Romagna": 92.5273679245283,
+        "France": 112.61107920792078,
+        "Great Britain": 100.7655,
+        "Hungary": 93.97327777777778,
+        "Italy": 96.39291452991452,
+        "Japan": 117.2700135135135,
+        "Mexico": 87.98509615384616,
+        "Miami": 102.8633628318584,
+        "Monaco": 92.74540384615385,
+        "Netherlands": 85.4085,
+        "Saudi Arabia": 106.81894444444444,
+        "Singapore": 126.291208,
+        "Spain": 92.33946052631579,
+        "United States": 112.28617721518988
+      },
+      "LAW": {
+        "Australia": NaN,
+        "Austria": NaN,
+        "Azerbaijan": NaN,
+        "Bahrain": NaN,
+        "Belgium": 118.52390909090909,
+        "Brazil": NaN,
+        "Canada": NaN,
+        "Emilia Romagna": NaN,
+        "France": NaN,
+        "Great Britain": NaN,
+        "Hungary": NaN,
+        "Italy": NaN,
+        "Japan": NaN,
+        "Mexico": 93.17486666666667,
+        "Miami": NaN,
+        "Monaco": NaN,
+        "Netherlands": NaN,
+        "Saudi Arabia": NaN,
+        "Singapore": NaN,
+        "Spain": NaN,
+        "United States": NaN
+      },
+      "Lance Stroll": {
+        "Australia": 95.7506,
+        "Austria": 76.06949152542373,
+        "Azerbaijan": 122.24185046728972,
+        "Bahrain": 108.44406194690265,
+        "Belgium": 121.92421951219512,
+        "Brazil": 84.83993430656935,
+        "Canada": 90.33873856209149,
+        "Emilia Romagna": 92.52163,
+        "France": 114.29762831858407,
+        "Great Britain": 101.73181967213114,
+        "Hungary": 94.69764028776979,
+        "Italy": 96.6860576923077,
+        "Japan": 115.55489743589743,
+        "Mexico": 90.27624107142857,
+        "Miami": 108.72223387096774,
+        "Monaco": 92.7808115942029,
+        "Netherlands": 84.69783802816902,
+        "Saudi Arabia": 108.01697391304347,
+        "Singapore": 127.47104761904761,
+        "Spain": 93.50315476190477,
+        "United States": 115.90098461538462
+      },
+      "Lando Norris": {
+        "Australia": 95.115875,
+        "Austria": 75.54063725490195,
+        "Azerbaijan": 118.36381132075472,
+        "Bahrain": 106.27440322580645,
+        "Belgium": 125.45008695652173,
+        "Brazil": 82.9765811965812,
+        "Canada": 87.92875187969925,
+        "Emilia Romagna": 90.34275257731959,
+        "France": 111.54020754716981,
+        "Great Britain": 101.81186486486487,
+        "Hungary": 92.15083582089552,
+        "Italy": 94.43884732824426,
+        "Japan": 112.39539473684209,
+        "Mexico": 87.92904273504274,
+        "Miami": 105.22297222222223,
+        "Monaco": 89.75057142857143,
+        "Netherlands": 83.51801379310345,
+        "Saudi Arabia": 107.1447652173913,
+        "Singapore": 126.48821666666666,
+        "Spain": 91.33470930232558,
+        "United States": 112.87988235294117
+      },
+      "Lewis Hamilton": {
+        "Australia": 93.19143181818183,
+        "Austria": 74.47459848484849,
+        "Azerbaijan": 117.5199406779661,
+        "Bahrain": 106.43334862385322,
+        "Belgium": 120.27929166666667,
+        "Brazil": 83.8193082706767,
+        "Canada": 89.1076711409396,
+        "Emilia Romagna": 91.28726,
+        "France": 114.38691262135923,
+        "Great Britain": 102.27742105263158,
+        "Hungary": 93.16741984732825,
+        "Italy": 95.13108333333334,
+        "Japan": 111.99191666666667,
+        "Mexico": 87.399125,
+        "Miami": 106.7676974789916,
+        "Monaco": 92.0148256880734,
+        "Netherlands": 86.46953846153846,
+        "Saudi Arabia": 105.76125,
+        "Singapore": 125.12842016806722,
+        "Spain": 92.67715730337079,
+        "United States": 112.50289361702129
+      },
+      "Max Verstappen": {
+        "Australia": 97.27776923076924,
+        "Austria": 75.09082706766917,
+        "Azerbaijan": 119.64528571428572,
+        "Bahrain": 105.57200909090909,
+        "Belgium": 121.66383908045978,
+        "Brazil": 83.42562222222223,
+        "Canada": 88.02683333333333,
+        "Emilia Romagna": 90.69911818181818,
+        "France": 113.76512844036696,
+        "Great Britain": 102.01631428571429,
+        "Hungary": 93.52291044776119,
+        "Italy": 94.7010634920635,
+        "Japan": 113.85527272727272,
+        "Mexico": 87.9116355140187,
+        "Miami": 102.18593750000001,
+        "Monaco": 89.68504587155964,
+        "Netherlands": 83.06085,
+        "Saudi Arabia": 107.64663157894738,
+        "Singapore": 125.45957547169812,
+        "Spain": 91.13927777777778,
+        "United States": 116.53884042553192
+      },
+      "Mick Schumacher": {
+        "Australia": 96.08473148148148,
+        "Austria": 74.40555462184874,
+        "Azerbaijan": 118.48052325581396,
+        "Bahrain": 106.54750847457628,
+        "Belgium": 122.86969047619047,
+        "Brazil": 83.55693600000001,
+        "Canada": 92.52667256637167,
+        "Emilia Romagna": 92.35490178571429,
+        "France": 113.44070873786407,
+        "Great Britain": 100.98208064516129,
+        "Hungary": 94.51846428571429,
+        "Italy": 94.27233333333334,
+        "Japan": 114.834609375,
+        "Mexico": 89.15036036036037,
+        "Miami": 105.47869747899159,
+        "Monaco": 94.64889473684211,
+        "Netherlands": 84.91464827586206,
+        "Saudi Arabia": 108.22377777777778,
+        "Singapore": 127.301575,
+        "Spain": 92.35037804878048,
+        "United States": 114.44223255813952
+      },
+      "Nicholas Latifi": {
+        "Australia": 96.41938596491228,
+        "Austria": 75.66571428571429,
+        "Azerbaijan": 120.86211458333332,
+        "Bahrain": 108.41082407407409,
+        "Belgium": 122.5540875,
+        "Brazil": 84.54087313432835,
+        "Canada": 88.577,
+        "Emilia Romagna": 92.95558762886598,
+        "France": 113.32981,
+        "Great Britain": 104.43766197183098,
+        "Hungary": 93.29090647482015,
+        "Italy": 97.7876090909091,
+        "Japan": 117.9965394736842,
+        "Mexico": 89.78916513761467,
+        "Miami": 104.9027090909091,
+        "Monaco": 94.08198630136985,
+        "Netherlands": 86.60365714285714,
+        "Saudi Arabia": 108.98128169014085,
+        "Singapore": 132.70278181818182,
+        "Spain": 93.04225287356323,
+        "United States": 114.11494666666668
+      },
+      "PAL": {
+        "Australia": NaN,
+        "Austria": NaN,
+        "Azerbaijan": NaN,
+        "Bahrain": NaN,
+        "Belgium": NaN,
+        "Brazil": NaN,
+        "Canada": NaN,
+        "Emilia Romagna": NaN,
+        "France": NaN,
+        "Great Britain": NaN,
+        "Hungary": NaN,
+        "Italy": NaN,
+        "Japan": NaN,
+        "Mexico": NaN,
+        "Miami": NaN,
+        "Monaco": NaN,
+        "Netherlands": NaN,
+        "Saudi Arabia": NaN,
+        "Singapore": NaN,
+        "Spain": NaN,
+        "United States": 108.31211111111111
+      },
+      "POU": {
+        "Australia": NaN,
+        "Austria": NaN,
+        "Azerbaijan": NaN,
+        "Bahrain": NaN,
+        "Belgium": NaN,
+        "Brazil": NaN,
+        "Canada": NaN,
+        "Emilia Romagna": NaN,
+        "France": NaN,
+        "Great Britain": NaN,
+        "Hungary": NaN,
+        "Italy": NaN,
+        "Japan": NaN,
+        "Mexico": NaN,
+        "Miami": NaN,
+        "Monaco": NaN,
+        "Netherlands": NaN,
+        "Saudi Arabia": NaN,
+        "Singapore": NaN,
+        "Spain": NaN,
+        "United States": 110.89753333333333
+      },
+      "Pierre Gasly": {
+        "Australia": 96.14406976744185,
+        "Austria": 75.74156034482759,
+        "Azerbaijan": 119.5878515625,
+        "Bahrain": 104.62017117117117,
+        "Belgium": 123.30020731707317,
+        "Brazil": 83.27185211267604,
+        "Canada": 89.58755263157896,
+        "Emilia Romagna": 91.24024242424242,
+        "France": 115.14285454545454,
+        "Great Britain": 104.00834146341462,
+        "Hungary": 95.12725,
+        "Italy": 96.14438211382114,
+        "Japan": 117.49123287671233,
+        "Mexico": 88.17680327868852,
+        "Miami": 104.76918421052632,
+        "Monaco": 90.6566976744186,
+        "Netherlands": 85.483072,
+        "Saudi Arabia": 106.54462601626015,
+        "Singapore": 127.8234015151515,
+        "Spain": 91.82038095238096,
+        "United States": 116.43842268041237
+      },
+      "SAR": {
+        "Australia": NaN,
+        "Austria": NaN,
+        "Azerbaijan": NaN,
+        "Bahrain": NaN,
+        "Belgium": NaN,
+        "Brazil": NaN,
+        "Canada": NaN,
+        "Emilia Romagna": NaN,
+        "France": NaN,
+        "Great Britain": NaN,
+        "Hungary": NaN,
+        "Italy": NaN,
+        "Japan": NaN,
+        "Mexico": 88.80023529411766,
+        "Miami": NaN,
+        "Monaco": NaN,
+        "Netherlands": NaN,
+        "Saudi Arabia": NaN,
+        "Singapore": NaN,
+        "Spain": NaN,
+        "United States": 117.53244444444444
+      },
+      "SHW": {
+        "Australia": NaN,
+        "Austria": NaN,
+        "Azerbaijan": NaN,
+        "Bahrain": NaN,
+        "Belgium": NaN,
+        "Brazil": NaN,
+        "Canada": NaN,
+        "Emilia Romagna": NaN,
+        "France": NaN,
+        "Great Britain": NaN,
+        "Hungary": NaN,
+        "Italy": NaN,
+        "Japan": NaN,
+        "Mexico": NaN,
+        "Miami": NaN,
+        "Monaco": NaN,
+        "Netherlands": NaN,
+        "Saudi Arabia": NaN,
+        "Singapore": NaN,
+        "Spain": NaN,
+        "United States": 122.16329411764707
+      },
+      "Sebastian Vettel": {
+        "Australia": 96.08085365853658,
+        "Austria": 76.09862385321101,
+        "Azerbaijan": 119.77901709401709,
+        "Bahrain": NaN,
+        "Belgium": 122.31544444444444,
+        "Brazil": 83.61296428571428,
+        "Canada": 89.50420547945205,
+        "Emilia Romagna": 91.65949523809523,
+        "France": 112.92691304347825,
+        "Great Britain": 100.94859322033898,
+        "Hungary": 94.05662962962963,
+        "Italy": 99.48503846153845,
+        "Japan": 112.73074117647059,
+        "Mexico": 88.6837192982456,
+        "Miami": 107.68076033057851,
+        "Monaco": 89.76798095238097,
+        "Netherlands": 85.37215753424657,
+        "Saudi Arabia": NaN,
+        "Singapore": 125.19351694915254,
+        "Spain": 92.70906172839507,
+        "United States": 114.11175999999999
+      },
+      "Sergio Perez": {
+        "Australia": 94.71594166666667,
+        "Austria": 78.31103488372092,
+        "Azerbaijan": 121.21171551724137,
+        "Bahrain": 107.01749166666667,
+        "Belgium": 122.98654651162792,
+        "Brazil": 83.42013043478262,
+        "Canada": 91.7035925925926,
+        "Emilia Romagna": 90.00105504587155,
+        "France": 112.57149579831933,
+        "Great Britain": 102.74216438356164,
+        "Hungary": 94.17284444444445,
+        "Italy": 96.6033306451613,
+        "Japan": 113.04175,
+        "Mexico": 88.80154954954955,
+        "Miami": 105.63145081967214,
+        "Monaco": 91.01069158878505,
+        "Netherlands": 87.16754248366013,
+        "Saudi Arabia": 108.26999145299145,
+        "Singapore": 127.26556190476191,
+        "Spain": 88.63587692307692,
+        "United States": 115.50695744680851
+      },
+      "VIP": {
+        "Australia": NaN,
+        "Austria": NaN,
+        "Azerbaijan": NaN,
+        "Bahrain": NaN,
+        "Belgium": NaN,
+        "Brazil": NaN,
+        "Canada": NaN,
+        "Emilia Romagna": NaN,
+        "France": NaN,
+        "Great Britain": NaN,
+        "Hungary": NaN,
+        "Italy": NaN,
+        "Japan": NaN,
+        "Mexico": NaN,
+        "Miami": NaN,
+        "Monaco": NaN,
+        "Netherlands": NaN,
+        "Saudi Arabia": NaN,
+        "Singapore": NaN,
+        "Spain": 104.7615,
+        "United States": NaN
+      },
+      "Valtteri Bottas": {
+        "Australia": 94.17388333333334,
+        "Austria": 73.63525242718447,
+        "Azerbaijan": 120.22214159292037,
+        "Bahrain": 106.76335779816515,
+        "Belgium": 128.67041666666668,
+        "Brazil": 84.2770977443609,
+        "Canada": 87.9614778761062,
+        "Emilia Romagna": 91.20683653846154,
+        "France": 112.41852475247525,
+        "Great Britain": 105.77078571428572,
+        "Hungary": 93.33159166666665,
+        "Italy": 95.16680620155039,
+        "Japan": 115.09938271604938,
+        "Mexico": 87.55606666666667,
+        "Miami": 101.89372549019608,
+        "Monaco": 90.99103296703296,
+        "Netherlands": 85.16146846846847,
+        "Saudi Arabia": 108.48707142857143,
+        "Singapore": 126.10576068376068,
+        "Spain": 92.29319540229885,
+        "United States": 112.0741052631579
+      },
+      "Yuki Tsunoda": {
+        "Australia": 95.54670866141733,
+        "Austria": 74.7644140625,
+        "Azerbaijan": 120.71873983739837,
+        "Bahrain": 105.47964646464646,
+        "Belgium": 123.5197608695652,
+        "Brazil": 86.0330606060606,
+        "Canada": 89.83258088235294,
+        "Emilia Romagna": 91.20920202020201,
+        "France": 118.64724719101123,
+        "Great Britain": 103.0255652173913,
+        "Hungary": 94.95769343065693,
+        "Italy": 95.68592913385827,
+        "Japan": 115.11478947368421,
+        "Mexico": 89.68122222222223,
+        "Miami": 104.42360305343512,
+        "Monaco": 90.68633673469388,
+        "Netherlands": 84.48593913043479,
+        "Saudi Arabia": 114.46965,
+        "Singapore": 130.6674842105263,
+        "Spain": 92.04469662921349,
+        "United States": 116.89992000000001
+      },
+      "Zhou Guanyu": {
+        "Australia": 95.66403361344538,
+        "Austria": 74.83873684210526,
+        "Azerbaijan": 123.32661363636363,
+        "Bahrain": 107.89173109243697,
+        "Belgium": 124.06285106382978,
+        "Brazil": 83.76367692307693,
+        "Canada": 89.49708641975309,
+        "Emilia Romagna": 93.4996511627907,
+        "France": 113.56978504672898,
+        "Great Britain": 110.86144444444444,
+        "Hungary": 94.06993333333334,
+        "Italy": 96.40903278688525,
+        "Japan": 115.17439999999999,
+        "Mexico": 87.94753271028038,
+        "Miami": 111.59493846153846,
+        "Monaco": 90.75470454545454,
+        "Netherlands": 84.65147999999999,
+        "Saudi Arabia": 108.6609008264463,
+        "Singapore": 129.56361428571427,
+        "Spain": 91.69374074074075,
+        "United States": 112.75594047619047
+      }
+    }
+  },
+  "team_performance": {
+    "team_statistics": {
+      "ALP": {
+        "Total_Laps": 4476,
+        "Avg_LapTime": 98.499,
+        "Median_LapTime": 95.162,
+        "Std_LapTime": 20.575,
+        "Best_LapTime": 65.726,
+        "Team_Name": "Alpine"
+      },
+      "AM": {
+        "Total_Laps": 4456,
+        "Avg_LapTime": 100.353,
+        "Median_LapTime": 96.498,
+        "Std_LapTime": 21.511,
+        "Best_LapTime": 66.652,
+        "Team_Name": "Aston Martin"
+      },
+      "AR": {
+        "Total_Laps": 4218,
+        "Avg_LapTime": 99.518,
+        "Median_LapTime": 95.623,
+        "Std_LapTime": 21.064,
+        "Best_LapTime": 66.319,
+        "Team_Name": "Alfa Romeo"
+      },
+      "AT": {
+        "Total_Laps": 4582,
+        "Avg_LapTime": 100.41,
+        "Median_LapTime": 96.291,
+        "Std_LapTime": 21.622,
+        "Best_LapTime": 66.16,
+        "Team_Name": "AlphaTauri"
+      },
+      "FER": {
+        "Total_Laps": 4516,
+        "Avg_LapTime": 100.338,
+        "Median_LapTime": 94.408,
+        "Std_LapTime": 24.235,
+        "Best_LapTime": 65.013,
+        "Team_Name": "Ferrari"
+      },
+      "HAS": {
+        "Total_Laps": 4216,
+        "Avg_LapTime": 99.902,
+        "Median_LapTime": 95.644,
+        "Std_LapTime": 21.11,
+        "Best_LapTime": 65.879,
+        "Team_Name": "Haas"
+      },
+      "MCL": {
+        "Total_Laps": 4519,
+        "Avg_LapTime": 99.371,
+        "Median_LapTime": 95.732,
+        "Std_LapTime": 20.691,
+        "Best_LapTime": 66.33,
+        "Team_Name": "McLaren"
+      },
+      "MER": {
+        "Total_Laps": 4748,
+        "Avg_LapTime": 98.893,
+        "Median_LapTime": 94.83,
+        "Std_LapTime": 21.788,
+        "Best_LapTime": 65.431,
+        "Team_Name": "Mercedes"
+      },
+      "RBR": {
+        "Total_Laps": 4548,
+        "Avg_LapTime": 99.517,
+        "Median_LapTime": 94.634,
+        "Std_LapTime": 23.051,
+        "Best_LapTime": 65.092,
+        "Team_Name": "Red Bull Racing"
+      },
+      "UNK": {
+        "Total_Laps": 34,
+        "Avg_LapTime": 126.452,
+        "Median_LapTime": 113.938,
+        "Std_LapTime": 26.767,
+        "Best_LapTime": 103.472,
+        "Team_Name": "UNK"
+      },
+      "WIL": {
+        "Total_Laps": 4218,
+        "Avg_LapTime": 99.598,
+        "Median_LapTime": 95.957,
+        "Std_LapTime": 20.589,
+        "Best_LapTime": 66.23,
+        "Team_Name": "Williams"
+      }
+    },
+    "consistency_ranking": {
+      "ALP": {
+        "Team_Name": "Alpine",
+        "Std_LapTime": 20.575
+      },
+      "WIL": {
+        "Team_Name": "Williams",
+        "Std_LapTime": 20.589
+      },
+      "MCL": {
+        "Team_Name": "McLaren",
+        "Std_LapTime": 20.691
+      },
+      "AR": {
+        "Team_Name": "Alfa Romeo",
+        "Std_LapTime": 21.064
+      },
+      "HAS": {
+        "Team_Name": "Haas",
+        "Std_LapTime": 21.11
+      },
+      "AM": {
+        "Team_Name": "Aston Martin",
+        "Std_LapTime": 21.511
+      },
+      "AT": {
+        "Team_Name": "AlphaTauri",
+        "Std_LapTime": 21.622
+      },
+      "MER": {
+        "Team_Name": "Mercedes",
+        "Std_LapTime": 21.788
+      },
+      "RBR": {
+        "Team_Name": "Red Bull Racing",
+        "Std_LapTime": 23.051
+      },
+      "FER": {
+        "Team_Name": "Ferrari",
+        "Std_LapTime": 24.235
+      },
+      "UNK": {
+        "Team_Name": "UNK",
+        "Std_LapTime": 26.767
+      }
+    },
+    "pace_ranking": {
+      "ALP": {
+        "Team_Name": "Alpine",
+        "Avg_LapTime": 98.499
+      },
+      "MER": {
+        "Team_Name": "Mercedes",
+        "Avg_LapTime": 98.893
+      },
+      "MCL": {
+        "Team_Name": "McLaren",
+        "Avg_LapTime": 99.371
+      },
+      "RBR": {
+        "Team_Name": "Red Bull Racing",
+        "Avg_LapTime": 99.517
+      },
+      "AR": {
+        "Team_Name": "Alfa Romeo",
+        "Avg_LapTime": 99.518
+      },
+      "WIL": {
+        "Team_Name": "Williams",
+        "Avg_LapTime": 99.598
+      },
+      "HAS": {
+        "Team_Name": "Haas",
+        "Avg_LapTime": 99.902
+      },
+      "FER": {
+        "Team_Name": "Ferrari",
+        "Avg_LapTime": 100.338
+      },
+      "AM": {
+        "Team_Name": "Aston Martin",
+        "Avg_LapTime": 100.353
+      },
+      "AT": {
+        "Team_Name": "AlphaTauri",
+        "Avg_LapTime": 100.41
+      },
+      "UNK": {
+        "Team_Name": "UNK",
+        "Avg_LapTime": 126.452
+      }
+    }
+  },
+  "lap_time_analysis": {},
+  "sector_analysis": {},
+  "tire_performance": {},
+  "track_performance": {},
+  "improvement_recommendations": {},
+  "tire_degradation": {
+    "compound_degradation": {
+      "MEDIUM": {
+        "degradation_rate": -0.510629549718574,
+        "base_time": 98.44985576923078,
+        "correlation": -0.8446561827777664,
+        "p_value": 7.332095587337836e-12,
+        "std_error": 0.05249753140880592,
+        "age_performance": "    TyreLife    median        mean        std  count\n0        1.0  114.6670  117.526738  20.434624    336\n1        2.0   94.0100   95.858259  19.299784    884\n2        3.0  101.0780  107.297473  25.716927    901\n3        4.0   95.0545   98.413939  22.780932    886\n4        5.0   99.0000  103.478856  23.323893    875\n5        6.0   95.8680   99.434544  21.371758    858\n6        7.0   96.4450   98.820037  20.005729    827\n7        8.0   94.8190   97.326266  20.303872    787\n8        9.0   95.5515   96.779254  18.393612    744\n9       10.0   94.4650   95.142032  17.118117    711\n10      11.0   93.7930   94.699661  17.062109    697\n11      12.0   92.4060   94.054504  16.495918    663\n12      13.0   88.4570   93.379477  16.863133    623\n13      14.0   87.6070   93.259184  18.334334    583\n14      15.0   86.9485   92.225710  17.595456    528\n15      16.0   86.4010   92.001204  17.782491    481\n16      17.0   85.7460   93.331643  20.648420    437\n17      18.0   85.2690   91.537966  19.165822    381\n18      19.0   84.7700   89.733310  18.074173    323\n19      20.0   84.3800   89.728151  17.802557    285\n20      21.0   84.0480   88.419663  17.053821    252\n21      22.0   84.3290   88.186966  15.578797    208\n22      23.0   83.8145   88.420554  16.728987    184\n23      24.0   83.4925   86.685730  12.347462    148\n24      25.0   83.0100   85.168591  11.445377    127\n25      26.0   83.6210   87.148891  13.903080    119\n26      27.0   84.1840   86.709248  12.435832    109\n27      28.0   83.1795   84.153181   8.097817     94\n28      29.0   83.0730   84.685729   9.396138     85\n29      30.0   84.3380   85.579787   7.678385     80\n30      31.0   83.8230   85.766529   9.288946     70\n31      32.0   83.3830   84.521270   8.009296     63\n32      33.0   82.4195   83.555704   6.485311     54\n33      34.0   82.4080   83.941449   8.671868     49\n34      35.0   82.1560   84.310128  10.247520     39\n35      36.0   82.2370   82.465250   6.872069     32\n36      37.0   82.2070   82.293548   6.915285     31\n37      38.0   82.0710   82.190484   6.450487     31\n38      39.0   82.7355   81.846107   4.807621     28\n39      40.0   82.0130   82.516444   6.218821     27",
+        "sample_size": 14640
+      },
+      "SOFT": {
+        "degradation_rate": -0.5688206040048146,
+        "base_time": 99.57114651493598,
+        "correlation": -0.7149522688818231,
+        "p_value": 4.583566180032112e-07,
+        "std_error": 0.09271112112297611,
+        "age_performance": "    TyreLife    median        mean        std  count\n0        1.0  113.1375  120.546649  24.830626    570\n1        2.0   91.0920   92.029747  16.729100   2267\n2        3.0  115.3770  116.139000  24.296425   2049\n3        4.0  103.1820  107.120254  25.591768   1557\n4        5.0   97.5260  103.106589  23.021207   1549\n5        6.0  101.2220  105.630929  22.509516   1294\n6        7.0   98.7560  103.703921  23.291244    990\n7        8.0   97.1530  101.788030  23.419593    864\n8        9.0   96.5260  100.121146  21.241403    759\n9       10.0   94.4190   98.337988  21.305199    643\n10      11.0   90.0695   95.612546  19.385941    548\n11      12.0   89.6130   94.917229  18.385368    477\n12      13.0   88.2010   92.759349  16.232770    424\n13      14.0   87.6755   93.666081  18.545962    370\n14      15.0   87.1300   93.418237  19.281566    321\n15      16.0   85.8200   92.757549  20.652669    273\n16      17.0   84.7505   91.215402  20.115527    224\n17      18.0   82.0635   87.323815  15.496584    184\n18      19.0   81.5110   85.647310  13.548717    155\n19      20.0   81.5850   85.007794  12.040378    131\n20      21.0   81.6890   86.668386  16.983820    114\n21      22.0   80.0610   83.697111  10.552246     90\n22      23.0   78.0670   82.822702  10.397293     84\n23      24.0   77.4025   82.571774  11.307920     62\n24      25.0   82.9550   83.218108  12.364897     37\n25      26.0   83.3180   83.205759   8.963384     29\n26      27.0   80.8135   81.369091   7.658878     22\n27      28.0   83.3460   81.197750   4.744001     20\n28      29.0   83.9885   83.316688   6.837151     16\n29      30.0   84.1325   82.459800   5.028149     10\n30      31.0   83.9070   80.780286   4.475476      7\n31      32.0   83.9990   82.742167   4.084076      6\n32      33.0   83.8230   81.679667   4.692708      3\n33      34.0   84.3070   81.852667   4.711224      3\n34      35.0   84.5880   84.588000   0.373352      2\n35      36.0   84.9710   84.971000        NaN      1\n36      37.0   85.1400   85.140000        NaN      1\n37      38.0   88.8900   88.890000        NaN      1",
+        "sample_size": 16157
+      },
+      "HARD": {
+        "degradation_rate": -0.4547107879924953,
+        "base_time": 100.71594615384615,
+        "correlation": -0.8887701250788614,
+        "p_value": 1.919414534227848e-14,
+        "std_error": 0.038041207041472354,
+        "age_performance": "    TyreLife    median        mean        std  count\n0        1.0  111.8125  115.682085  22.843654    260\n1        2.0   96.2685  100.041043  20.827646    488\n2        3.0   98.0955  100.186348  20.997627    474\n3        4.0   97.1510   99.257908  19.614541    476\n4        5.0   98.6190  101.092423  20.432457    475\n5        6.0   96.9670   99.167531  20.039122    475\n6        7.0   97.7970   99.176601  18.536779    454\n7        8.0   96.1300   97.764736  18.302812    428\n8        9.0   96.3010   98.251889  18.759302    425\n9       10.0   96.2480   97.621915  18.778661    402\n10      11.0   95.3870   96.741822  18.230335    387\n11      12.0   94.0830   94.611343  16.314628    361\n12      13.0   93.7260   94.531795  16.323102    337\n13      14.0   93.3130   93.689160  15.245414    319\n14      15.0   93.5370   94.882311  17.298019    309\n15      16.0   93.8060   94.608024  16.830677    294\n16      17.0   93.6565   94.379157  16.696613    280\n17      18.0   93.8750   95.233516  17.703118    258\n18      19.0   92.0690   94.091255  17.747822    235\n19      20.0   89.4535   92.329745  16.049348    212\n20      21.0   88.0265   92.076520  15.799421    202\n21      22.0   91.1530   92.387672  15.635013    189\n22      23.0   86.9975   90.704425  13.940492    174\n23      24.0   87.1960   92.946204  16.891307    167\n24      25.0   86.8370   91.467456  16.846107    158\n25      26.0   87.7855   91.760013  16.513561    152\n26      27.0   87.1560   90.625857  13.381436    147\n27      28.0   88.0595   91.078779  13.802613    140\n28      29.0   90.2940   91.342088  13.524535    136\n29      30.0   92.0440   92.724447  16.958619    123\n30      31.0   91.8440   91.841513  14.491808    115\n31      32.0   88.0520   92.182440  15.795020    109\n32      33.0   89.6185   90.561075  15.014631    106\n33      34.0   85.3275   88.120653  11.433742     98\n34      35.0   84.8585   87.864833  11.884226     84\n35      36.0   83.3985   85.738047  11.976152     64\n36      37.0   83.8065   84.560103  10.205871     58\n37      38.0   83.6085   84.716923  11.074009     52\n38      39.0   82.5130   85.754711  14.526452     45\n39      40.0   78.9035   84.067263  14.012415     38",
+        "sample_size": 9706
+      },
+      "INTERMEDIATE": {
+        "degradation_rate": 0.5220856275303647,
+        "base_time": 107.10668488529016,
+        "correlation": 0.5531471131738854,
+        "p_value": 0.0002600605345891451,
+        "std_error": 0.12926733826298925,
+        "age_performance": "    TyreLife    median        mean        std  count\n0        1.0  131.6690  132.523944  23.601973    126\n1        2.0  108.7070  112.593507  22.786321    379\n2        3.0  108.4250  113.294429  19.893951    350\n3        4.0  110.4140  113.767751  18.518043    285\n4        5.0  108.8880  112.237060  17.001680    249\n5        6.0  107.4910  112.081530  18.494978    219\n6        7.0  108.9375  112.622895  17.192870    190\n7        8.0  113.5290  119.239825  20.745964    171\n8        9.0  114.2055  122.414008  25.862533    128\n9       10.0  108.3650  116.070748  23.863713    103\n10      11.0  110.8020  113.160926  17.125001     95\n11      12.0  109.1030  111.682259  17.957268     81\n12      13.0  109.2710  110.220630  15.135019     73\n13      14.0  109.0120  109.541440  15.439652     75\n14      15.0  109.0640  109.764246  15.040562     69\n15      16.0  109.2185  110.266015  15.350100     68\n16      17.0  109.2240  110.856400  16.842229     65\n17      18.0  109.2495  111.745117  14.763252     60\n18      19.0  111.3150  114.431583  17.643645     48\n19      20.0  110.2770  111.529238  10.527992     42\n20      21.0  110.4385  116.503025  15.383586     40\n21      22.0  115.9490  128.162937  22.280548     32\n22      23.0  119.7940  116.941269   5.965681     26\n23      24.0  119.3020  119.343130   8.921854     23\n24      25.0  119.9295  125.346182  16.742684     22\n25      26.0  137.6990  133.258250  14.269139     20\n26      27.0  120.5640  125.431556  13.581128     18\n27      28.0  133.5950  136.590882  17.919828     17\n28      29.0  157.4870  150.707000  14.551370     15\n29      30.0  127.9545  128.802214   8.983639     14\n30      31.0  118.8340  119.909308   5.017253     13\n31      32.0  118.7530  123.645462  12.735482     13\n32      33.0  119.3230  121.301000   5.162874     13\n33      34.0  119.4405  123.253167   7.455231     12\n34      35.0  125.7170  127.550625  13.050542      8\n35      36.0  137.1415  136.954250  15.818154      4\n36      37.0  119.6220  119.622000        NaN      1\n37      38.0  118.7160  118.716000        NaN      1\n38      39.0  126.9610  126.961000        NaN      1",
+        "sample_size": 3169
+      },
+      "WET": {
+        "degradation_rate": -0.5202896103896105,
+        "base_time": 109.93544761904762,
+        "correlation": -0.6390011964729422,
+        "p_value": 0.0018191309373045003,
+        "std_error": 0.14368426089951444,
+        "age_performance": "    TyreLife    median        mean        std  count\n0        1.0  113.9550  120.597395  15.132782     43\n1        2.0  107.8435  117.683540  23.237725    124\n2        3.0  108.2600  119.132423  26.355060    123\n3        4.0  106.5910  109.775663  14.500343    104\n4        5.0  104.3235  109.998032  15.996618     94\n5        6.0  104.2520  106.538027  11.734059     75\n6        7.0  104.5780  108.492250  15.793656     64\n7        8.0  101.9100  108.344439  15.650687     57\n8        9.0  100.6480  104.164188  12.011478     48\n9       10.0  104.9395  108.068775  16.853441     40\n10      11.0  107.9945  115.768750  21.123651     24\n11      12.0  105.9260  113.768154  21.505059     13\n12      13.0  109.6150  117.046273  21.959071     11\n13      14.0  110.5810  115.511273  22.031626     11\n14      15.0  102.6300  106.972286  14.146468      7\n15      16.0  107.3115  107.144167   8.548201      6\n16      17.0   95.2825  111.683500  29.277430      6\n17      18.0  101.0695  105.530250  14.409322      4\n18      19.0   95.7780   95.522333   2.245443      3\n19      20.0   99.8580   99.858000        NaN      1\n20      21.0   95.1110   95.111000        NaN      1",
+        "sample_size": 859
+      }
+    },
+    "driver_degradation": {
+      "Max Verstappen": {
+        "MEDIUM": {
+          "degradation_rate": -0.44573714821763605,
+          "base_time": 94.91876153846154,
+          "correlation": -0.7810445213028818,
+          "laps_analyzed": 812
+        },
+        "SOFT": {
+          "degradation_rate": -0.9269926686217009,
+          "base_time": 103.07772278225806,
+          "correlation": -0.8681841784729549,
+          "laps_analyzed": 906
+        },
+        "HARD": {
+          "degradation_rate": -0.0667709815078236,
+          "base_time": 94.74714864864865,
+          "correlation": -0.17351604152349157,
+          "laps_analyzed": 350
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": 0.7165880952380951,
+          "base_time": 101.87757142857143,
+          "correlation": 0.5621518513776661,
+          "laps_analyzed": 198
+        },
+        "WET": {
+          "degradation_rate": -1.1963318681318682,
+          "base_time": 109.34870329670329,
+          "correlation": -0.735844737688721,
+          "laps_analyzed": 33
+        }
+      },
+      "Pierre Gasly": {
+        "SOFT": {
+          "degradation_rate": -0.7566579532814239,
+          "base_time": 101.60008160919541,
+          "correlation": -0.7560440314165661,
+          "laps_analyzed": 834
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.5107162288930583,
+          "base_time": 100.22445769230771,
+          "correlation": -0.8050815255859257,
+          "laps_analyzed": 719
+        },
+        "HARD": {
+          "degradation_rate": -0.6062498592870544,
+          "base_time": 102.3387596153846,
+          "correlation": -0.9414286098292203,
+          "laps_analyzed": 573
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": 0.5290419562419564,
+          "base_time": 111.72366825396828,
+          "correlation": 0.4507169040407097,
+          "laps_analyzed": 148
+        },
+        "WET": {
+          "degradation_rate": 2.774929319371728,
+          "base_time": 97.09877486910993,
+          "correlation": 0.6583122877192545,
+          "laps_analyzed": 51
+        }
+      },
+      "Sergio Perez": {
+        "SOFT": {
+          "degradation_rate": -1.1382189743589741,
+          "base_time": 106.05782153846154,
+          "correlation": -0.8054758939451501,
+          "laps_analyzed": 885
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.4258586303939962,
+          "base_time": 96.53040192307692,
+          "correlation": -0.7550685485179712,
+          "laps_analyzed": 818
+        },
+        "HARD": {
+          "degradation_rate": -0.4300745705219388,
+          "base_time": 102.19138833570412,
+          "correlation": -0.765257218640801,
+          "laps_analyzed": 343
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": 0.40846330532212877,
+          "base_time": 106.65168907563026,
+          "correlation": 0.41303696707802456,
+          "laps_analyzed": 195
+        },
+        "WET": {
+          "degradation_rate": -1.427830303030302,
+          "base_time": 113.74846666666666,
+          "correlation": -0.42957988002710307,
+          "laps_analyzed": 24
+        }
+      },
+      "Fernando Alonso": {
+        "SOFT": {
+          "degradation_rate": -1.4002565384615389,
+          "base_time": 108.10741500000002,
+          "correlation": -0.8687939252333826,
+          "laps_analyzed": 720
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.381550469043152,
+          "base_time": 95.77920961538462,
+          "correlation": -0.7124734936582826,
+          "laps_analyzed": 723
+        },
+        "HARD": {
+          "degradation_rate": -0.17081585365853663,
+          "base_time": 98.35510000000001,
+          "correlation": -0.342953400135615,
+          "laps_analyzed": 566
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": 0.9239620300751882,
+          "base_time": 106.79287368421052,
+          "correlation": 0.5746570411330387,
+          "laps_analyzed": 149
+        },
+        "WET": {
+          "degradation_rate": -1.7800272727272728,
+          "base_time": 114.80999999999999,
+          "correlation": -0.7056371173311006,
+          "laps_analyzed": 28
+        }
+      },
+      "Charles Leclerc": {
+        "SOFT": {
+          "degradation_rate": -1.046783982202447,
+          "base_time": 104.85925172413792,
+          "correlation": -0.7904416223179964,
+          "laps_analyzed": 983
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.4427877579737338,
+          "base_time": 97.11508653846154,
+          "correlation": -0.6785900893724418,
+          "laps_analyzed": 703
+        },
+        "HARD": {
+          "degradation_rate": -0.5686836303939962,
+          "base_time": 98.79705192307692,
+          "correlation": -0.8551000744814039,
+          "laps_analyzed": 397
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": 0.6501080213903744,
+          "base_time": 105.21566844919786,
+          "correlation": 0.4253386426229683,
+          "laps_analyzed": 180
+        },
+        "WET": {
+          "degradation_rate": 2.4116909090909084,
+          "base_time": 101.49476363636364,
+          "correlation": 0.3932504210564257,
+          "laps_analyzed": 37
+        }
+      },
+      "Lance Stroll": {
+        "SOFT": {
+          "degradation_rate": -0.8980220244716354,
+          "base_time": 103.38944137931036,
+          "correlation": -0.7548643121696328,
+          "laps_analyzed": 791
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.7584211069418384,
+          "base_time": 101.7437576923077,
+          "correlation": -0.8762804721579723,
+          "laps_analyzed": 759
+        },
+        "HARD": {
+          "degradation_rate": -0.4556793621013134,
+          "base_time": 104.14272692307692,
+          "correlation": -0.7034921045548971,
+          "laps_analyzed": 483
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": 0.5330015406162466,
+          "base_time": 108.6480294117647,
+          "correlation": 0.44753726507057784,
+          "laps_analyzed": 152
+        },
+        "WET": {
+          "degradation_rate": -0.5006074465500485,
+          "base_time": 112.2539587585034,
+          "correlation": -0.27900584155875,
+          "laps_analyzed": 46
+        }
+      },
+      "Kevin Magnussen": {
+        "SOFT": {
+          "degradation_rate": -0.767150700280112,
+          "base_time": 104.00424117647059,
+          "correlation": -0.7017361118367624,
+          "laps_analyzed": 651
+        },
+        "HARD": {
+          "degradation_rate": -0.348294277673546,
+          "base_time": 96.26675769230769,
+          "correlation": -0.7378827302729196,
+          "laps_analyzed": 472
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.40590060975609754,
+          "base_time": 99.0017,
+          "correlation": -0.7218147889557236,
+          "laps_analyzed": 733
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": 0.6343674876847292,
+          "base_time": 108.76652216748766,
+          "correlation": 0.4462124375329356,
+          "laps_analyzed": 164
+        },
+        "WET": {
+          "degradation_rate": -0.6101000000000003,
+          "base_time": 112.48342105263156,
+          "correlation": -0.37313926682757703,
+          "laps_analyzed": 76
+        }
+      },
+      "Yuki Tsunoda": {
+        "SOFT": {
+          "degradation_rate": -0.8522125615763548,
+          "base_time": 104.59024014778328,
+          "correlation": -0.8041955638253073,
+          "laps_analyzed": 873
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.5891462945590996,
+          "base_time": 99.47698653846155,
+          "correlation": -0.7869692273459175,
+          "laps_analyzed": 673
+        },
+        "HARD": {
+          "degradation_rate": -0.6297789868667917,
+          "base_time": 102.08216923076922,
+          "correlation": -0.8432887511241286,
+          "laps_analyzed": 457
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": 0.514210222672065,
+          "base_time": 109.86528272604592,
+          "correlation": 0.4365269320291656,
+          "laps_analyzed": 170
+        },
+        "WET": {
+          "degradation_rate": 2.395432142857143,
+          "base_time": 96.18364285714286,
+          "correlation": 0.7009987734603382,
+          "laps_analyzed": 58
+        }
+      },
+      "Alexander Albon": {
+        "SOFT": {
+          "degradation_rate": -0.6706539589442813,
+          "base_time": 101.75150907258065,
+          "correlation": -0.6711660902100018,
+          "laps_analyzed": 682
+        },
+        "HARD": {
+          "degradation_rate": -0.3157340994371483,
+          "base_time": 103.76446153846153,
+          "correlation": -0.6678452037040421,
+          "laps_analyzed": 461
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.45052476547842435,
+          "base_time": 96.6146076923077,
+          "correlation": -0.760654788901066,
+          "laps_analyzed": 700
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": 0.8992469230769231,
+          "base_time": 111.29438999999999,
+          "correlation": 0.4164535402439354,
+          "laps_analyzed": 108
+        },
+        "WET": {
+          "degradation_rate": 0.02624090909090972,
+          "base_time": 106.60532727272727,
+          "correlation": 0.012120149829109797,
+          "laps_analyzed": 42
+        }
+      },
+      "Zhou Guanyu": {
+        "SOFT": {
+          "degradation_rate": -0.989722612681436,
+          "base_time": 104.11410160427805,
+          "correlation": -0.8736011440471266,
+          "laps_analyzed": 716
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.5195638836772987,
+          "base_time": 97.79683461538463,
+          "correlation": -0.8271365354595559,
+          "laps_analyzed": 739
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": 0.3370228070175439,
+          "base_time": 107.75987719298246,
+          "correlation": 0.14748910200588974,
+          "laps_analyzed": 144
+        },
+        "HARD": {
+          "degradation_rate": -0.29525972024656244,
+          "base_time": 99.9708400900901,
+          "correlation": -0.4850194483438101,
+          "laps_analyzed": 414
+        },
+        "WET": {
+          "degradation_rate": 0.7971791208791199,
+          "base_time": 109.16140659340661,
+          "correlation": 0.23862375779174977,
+          "laps_analyzed": 57
+        }
+      },
+      "Daniel Ricciardo": {
+        "SOFT": {
+          "degradation_rate": -0.9205536752136756,
+          "base_time": 103.92864769230769,
+          "correlation": -0.7661216332985276,
+          "laps_analyzed": 716
+        },
+        "HARD": {
+          "degradation_rate": -0.6704700281425893,
+          "base_time": 101.91322307692306,
+          "correlation": -0.9345040043729137,
+          "laps_analyzed": 618
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.5095757504690434,
+          "base_time": 100.3642653846154,
+          "correlation": -0.7749364228856496,
+          "laps_analyzed": 672
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": 0.6158229086229086,
+          "base_time": 109.64908174603175,
+          "correlation": 0.4826478975841857,
+          "laps_analyzed": 157
+        },
+        "WET": {
+          "degradation_rate": -1.7936242424242437,
+          "base_time": 115.67093333333334,
+          "correlation": -0.5931393173742672,
+          "laps_analyzed": 35
+        }
+      },
+      "Esteban Ocon": {
+        "SOFT": {
+          "degradation_rate": -1.1312951770451773,
+          "base_time": 104.55622507122507,
+          "correlation": -0.8413059909588523,
+          "laps_analyzed": 802
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.6670071294559101,
+          "base_time": 102.07157115384618,
+          "correlation": -0.7682642566657109,
+          "laps_analyzed": 661
+        },
+        "HARD": {
+          "degradation_rate": -0.3119508442776736,
+          "base_time": 96.7105673076923,
+          "correlation": -0.670370357886299,
+          "laps_analyzed": 637
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": 0.9460664957264958,
+          "base_time": 103.48342923076923,
+          "correlation": 0.6854354095108793,
+          "laps_analyzed": 146
+        },
+        "WET": {
+          "degradation_rate": -1.2965121212121218,
+          "base_time": 109.89996666666667,
+          "correlation": -0.689829379644217,
+          "laps_analyzed": 34
+        }
+      },
+      "Lando Norris": {
+        "SOFT": {
+          "degradation_rate": -1.2901243478260866,
+          "base_time": 106.58597101449274,
+          "correlation": -0.8286193662161774,
+          "laps_analyzed": 771
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.4935899624765479,
+          "base_time": 99.68876923076922,
+          "correlation": -0.8007854556397449,
+          "laps_analyzed": 751
+        },
+        "HARD": {
+          "degradation_rate": -0.4938084896810508,
+          "base_time": 99.03911153846153,
+          "correlation": -0.7242634748476693,
+          "laps_analyzed": 564
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": 0.5525768983268984,
+          "base_time": 106.39103571428575,
+          "correlation": 0.3912646569272427,
+          "laps_analyzed": 183
+        },
+        "WET": {
+          "degradation_rate": -2.210890909090909,
+          "base_time": 116.78899999999999,
+          "correlation": -0.8034514613238841,
+          "laps_analyzed": 34
+        }
+      },
+      "Lewis Hamilton": {
+        "SOFT": {
+          "degradation_rate": -1.172231034482759,
+          "base_time": 106.93777586206895,
+          "correlation": -0.9051239708288343,
+          "laps_analyzed": 832
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.49136205440900554,
+          "base_time": 95.26080961538462,
+          "correlation": -0.8155398334447992,
+          "laps_analyzed": 789
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": 0.6351455309396485,
+          "base_time": 105.24429144385026,
+          "correlation": 0.503116028528037,
+          "laps_analyzed": 188
+        },
+        "HARD": {
+          "degradation_rate": -0.19435375234521582,
+          "base_time": 98.01452692307693,
+          "correlation": -0.3903312589358909,
+          "laps_analyzed": 482
+        },
+        "WET": {
+          "degradation_rate": -1.0084561403508772,
+          "base_time": 114.01619298245613,
+          "correlation": -0.6194787851961772,
+          "laps_analyzed": 37
+        }
+      },
+      "Mick Schumacher": {
+        "SOFT": {
+          "degradation_rate": -1.0289896551724138,
+          "base_time": 104.32791379310345,
+          "correlation": -0.8693063919220757,
+          "laps_analyzed": 751
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.3428397748592871,
+          "base_time": 96.13801538461539,
+          "correlation": -0.572210047296655,
+          "laps_analyzed": 677
+        },
+        "HARD": {
+          "degradation_rate": -0.36427626641651045,
+          "base_time": 103.08883846153846,
+          "correlation": -0.749001470086005,
+          "laps_analyzed": 452
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": 0.58894782276547,
+          "base_time": 110.73310427807485,
+          "correlation": 0.46162747422275874,
+          "laps_analyzed": 155
+        },
+        "WET": {
+          "degradation_rate": -1.4698136363636363,
+          "base_time": 116.10383636363638,
+          "correlation": -0.6864138674839734,
+          "laps_analyzed": 54
+        }
+      },
+      "Sebastian Vettel": {
+        "SOFT": {
+          "degradation_rate": -0.4918663420505527,
+          "base_time": 97.96806472261736,
+          "correlation": -0.6620861251017743,
+          "laps_analyzed": 678
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.5264199343339588,
+          "base_time": 98.89819615384616,
+          "correlation": -0.865743874162302,
+          "laps_analyzed": 702
+        },
+        "HARD": {
+          "degradation_rate": -0.1810956848030019,
+          "base_time": 98.38751153846155,
+          "correlation": -0.29048933338312577,
+          "laps_analyzed": 393
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": 0.6156220015278838,
+          "base_time": 105.81429144385027,
+          "correlation": 0.5124612288629252,
+          "laps_analyzed": 160
+        },
+        "WET": {
+          "degradation_rate": -0.021493006993006714,
+          "base_time": 106.33720454545454,
+          "correlation": -0.00937968332646877,
+          "laps_analyzed": 37
+        }
+      },
+      "Carlos Sainz": {
+        "SOFT": {
+          "degradation_rate": -0.8121928152492668,
+          "base_time": 104.0364939516129,
+          "correlation": -0.7098342109328116,
+          "laps_analyzed": 924
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.3833077392120074,
+          "base_time": 96.26847115384615,
+          "correlation": -0.7099852050386436,
+          "laps_analyzed": 695
+        },
+        "HARD": {
+          "degradation_rate": -0.4929315196998123,
+          "base_time": 98.23839615384614,
+          "correlation": -0.7865010029100731,
+          "laps_analyzed": 387
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": 0.6539861344537815,
+          "base_time": 108.08189243697481,
+          "correlation": 0.49135942500102464,
+          "laps_analyzed": 146
+        },
+        "WET": {
+          "degradation_rate": 2.029516392156863,
+          "base_time": 99.06469929411764,
+          "correlation": 0.5452197201268053,
+          "laps_analyzed": 47
+        }
+      },
+      "Nicholas Latifi": {
+        "MEDIUM": {
+          "degradation_rate": -0.46780975609756087,
+          "base_time": 98.98024999999998,
+          "correlation": -0.7498646237586264,
+          "laps_analyzed": 698
+        },
+        "HARD": {
+          "degradation_rate": 0.027004376846482377,
+          "base_time": 90.66980938833572,
+          "correlation": 0.046031823089655935,
+          "laps_analyzed": 486
+        },
+        "SOFT": {
+          "degradation_rate": -0.880598043478261,
+          "base_time": 105.27799637681161,
+          "correlation": -0.7156540873355002,
+          "laps_analyzed": 747
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": -0.5874604743083003,
+          "base_time": 118.79704743083005,
+          "correlation": -0.5078915170325015,
+          "laps_analyzed": 114
+        },
+        "WET": {
+          "degradation_rate": 0.5691424242424232,
+          "base_time": 107.95366666666668,
+          "correlation": 0.22010287758713426,
+          "laps_analyzed": 40
+        }
+      },
+      "George Russell": {
+        "SOFT": {
+          "degradation_rate": -1.1223933467741936,
+          "base_time": 104.71992258064515,
+          "correlation": -0.939041831261149,
+          "laps_analyzed": 882
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.5170348499061913,
+          "base_time": 97.26217692307691,
+          "correlation": -0.7808776657893545,
+          "laps_analyzed": 779
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": -0.09499703557312236,
+          "base_time": 113.95179051383397,
+          "correlation": -0.07468196111541107,
+          "laps_analyzed": 147
+        },
+        "HARD": {
+          "degradation_rate": -0.3972856941838648,
+          "base_time": 100.19811923076922,
+          "correlation": -0.732682044950849,
+          "laps_analyzed": 534
+        },
+        "WET": {
+          "degradation_rate": -0.7033545454545459,
+          "base_time": 109.26511428571428,
+          "correlation": -0.6735037718717022,
+          "laps_analyzed": 42
+        }
+      },
+      "Valtteri Bottas": {
+        "SOFT": {
+          "degradation_rate": -1.0108191452991455,
+          "base_time": 106.39082769230767,
+          "correlation": -0.6898409773390103,
+          "laps_analyzed": 752
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.34701768292682933,
+          "base_time": 95.34285,
+          "correlation": -0.7875830447412067,
+          "laps_analyzed": 681
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": 0.6706467245989305,
+          "base_time": 106.83064204545455,
+          "correlation": 0.5278084126492366,
+          "laps_analyzed": 165
+        },
+        "HARD": {
+          "degradation_rate": -0.61427138836773,
+          "base_time": 100.83961346153846,
+          "correlation": -0.9267003150646369,
+          "laps_analyzed": 442
+        },
+        "WET": {
+          "degradation_rate": 0.7829532967032966,
+          "base_time": 105.65140384615383,
+          "correlation": 0.22989306455650813,
+          "laps_analyzed": 47
+        }
+      },
+      "DEV": {
+        "MEDIUM": {
+          "degradation_rate": 0.0640245225362872,
+          "base_time": 95.48037967914439,
+          "correlation": 0.046582688989024255,
+          "laps_analyzed": 56
+        },
+        "SOFT": {
+          "degradation_rate": -0.9402754385964914,
+          "base_time": 106.21433333333334,
+          "correlation": -0.39557481675063116,
+          "laps_analyzed": 69
+        },
+        "HARD": {
+          "degradation_rate": -0.2474058931484505,
+          "base_time": 97.39106127650898,
+          "correlation": -0.08359570661565831,
+          "laps_analyzed": 35
+        }
+      },
+      "KUB": {
+        "MEDIUM": {
+          "degradation_rate": -1.1533764705882352,
+          "base_time": 123.9639411764706,
+          "correlation": -0.15002699151719076,
+          "laps_analyzed": 9
+        },
+        "SOFT": {
+          "degradation_rate": -2.8428999999999993,
+          "base_time": 125.3508,
+          "correlation": -0.35148680972994695,
+          "laps_analyzed": 18
+        },
+        "HARD": {
+          "degradation_rate": 0.5571293233082709,
+          "base_time": 88.9511135338346,
+          "correlation": 0.19791104854333338,
+          "laps_analyzed": 19
+        }
+      },
+      "LAW": {
+        "HARD": {
+          "degradation_rate": -0.8731580882352942,
+          "base_time": 109.77734558823529,
+          "correlation": -0.421716436128678,
+          "laps_analyzed": 25
+        }
+      },
+      "VIP": {
+        "HARD": {
+          "degradation_rate": 0.4336304347826097,
+          "base_time": 96.42733695652173,
+          "correlation": 0.1643755677706032,
+          "laps_analyzed": 8
+        },
+        "SOFT": {
+          "degradation_rate": 2.4348181818181813,
+          "base_time": 93.17418181818184,
+          "correlation": 0.35801363368149863,
+          "laps_analyzed": 10
+        }
+      },
+      "HUL": {
+        "MEDIUM": {
+          "degradation_rate": -0.35959473684210513,
+          "base_time": 107.16484210526315,
+          "correlation": -0.2556809293471441,
+          "laps_analyzed": 58
+        },
+        "SOFT": {
+          "degradation_rate": -0.697685087719298,
+          "base_time": 112.90690350877193,
+          "correlation": -0.39598758799166195,
+          "laps_analyzed": 116
+        },
+        "HARD": {
+          "degradation_rate": -0.2490173432541854,
+          "base_time": 109.65345661450924,
+          "correlation": -0.14969618383277192,
+          "laps_analyzed": 62
+        }
+      },
+      "PAL": {
+        "MEDIUM": {
+          "degradation_rate": -0.29464295561069775,
+          "base_time": 111.79871941917105,
+          "correlation": -0.20630336747519953,
+          "laps_analyzed": 18
+        }
+      },
+      "SHW": {
+        "SOFT": {
+          "degradation_rate": 0.3806625874125894,
+          "base_time": 118.33023892773895,
+          "correlation": 0.07089837397413323,
+          "laps_analyzed": 17
+        }
+      },
+      "SAR": {
+        "HARD": {
+          "degradation_rate": -0.37840488721804544,
+          "base_time": 102.68418120300751,
+          "correlation": -0.1699194320174969,
+          "laps_analyzed": 29
+        },
+        "SOFT": {
+          "degradation_rate": 2.7450857142857137,
+          "base_time": 104.4541142857143,
+          "correlation": 0.2902242755070509,
+          "laps_analyzed": 6
+        }
+      },
+      "POU": {
+        "MEDIUM": {
+          "degradation_rate": 0.3548601895734596,
+          "base_time": 106.85212717219588,
+          "correlation": 0.13386171039952935,
+          "laps_analyzed": 15
+        }
+      },
+      "GIO": {
+        "SOFT": {
+          "degradation_rate": 0.3970507352941175,
+          "base_time": 94.46348676470588,
+          "correlation": 0.12186699344379005,
+          "laps_analyzed": 24
+        }
+      },
+      "FIT": {
+        "HARD": {
+          "degradation_rate": 0.9889642857142847,
+          "base_time": 88.73317857142857,
+          "correlation": 0.23393211499310443,
+          "laps_analyzed": 7
+        }
+      },
+      "DOO": {
+        "HARD": {
+          "degradation_rate": 2.183236363636364,
+          "base_time": 82.15816363636365,
+          "correlation": 0.46741233519019243,
+          "laps_analyzed": 10
+        }
+      }
+    },
+    "circuit_degradation": {
+      "Brazil": {
+        "MEDIUM": {
+          "degradation_rate": -0.05076874304783086,
+          "base_time": 78.81613218390805,
+          "correlation": -0.1348253969084075,
+          "laps_analyzed": 806
+        },
+        "SOFT": {
+          "degradation_rate": -0.2381094728800612,
+          "base_time": 82.19166577540106,
+          "correlation": -0.41566070066053024,
+          "laps_analyzed": 1415
+        },
+        "HARD": {
+          "degradation_rate": 0.29514906832298127,
+          "base_time": 79.33660389610391,
+          "correlation": 0.20724175763304525,
+          "laps_analyzed": 192
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": -1.5928630952380953,
+          "base_time": 102.11819642857144,
+          "correlation": -0.2567767518969037,
+          "laps_analyzed": 115
+        }
+      },
+      "France": {
+        "MEDIUM": {
+          "degradation_rate": -0.185456442577031,
+          "base_time": 107.24328739495797,
+          "correlation": -0.19288080482816422,
+          "laps_analyzed": 796
+        },
+        "SOFT": {
+          "degradation_rate": -1.7001035714285726,
+          "base_time": 132.10062857142862,
+          "correlation": -0.32127493751438246,
+          "laps_analyzed": 706
+        },
+        "HARD": {
+          "degradation_rate": -0.1251344238975817,
+          "base_time": 103.88831081081082,
+          "correlation": -0.1941369718036019,
+          "laps_analyzed": 670
+        }
+      },
+      "Belgium": {
+        "MEDIUM": {
+          "degradation_rate": 0.06256230769230788,
+          "base_time": 116.60007,
+          "correlation": 0.05915759273909965,
+          "laps_analyzed": 640
+        },
+        "SOFT": {
+          "degradation_rate": -0.5700266233766236,
+          "base_time": 124.12369761904762,
+          "correlation": -0.4129504996534244,
+          "laps_analyzed": 609
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": -0.9711571428571435,
+          "base_time": 166.12163333333334,
+          "correlation": -0.1830796592971329,
+          "laps_analyzed": 22
+        },
+        "HARD": {
+          "degradation_rate": -0.10381466165413587,
+          "base_time": 116.72067894736844,
+          "correlation": -0.1757321066111333,
+          "laps_analyzed": 398
+        }
+      },
+      "Netherlands": {
+        "SOFT": {
+          "degradation_rate": -0.5544979474548438,
+          "base_time": 89.31402380952379,
+          "correlation": -0.4649406953102685,
+          "laps_analyzed": 1288
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.026634475806451507,
+          "base_time": 79.31190967741937,
+          "correlation": -0.05609153214690703,
+          "laps_analyzed": 924
+        },
+        "HARD": {
+          "degradation_rate": 0.1157914979757085,
+          "base_time": 77.12702631578946,
+          "correlation": 0.20248175890255532,
+          "laps_analyzed": 537
+        }
+      },
+      "Spain": {
+        "SOFT": {
+          "degradation_rate": -0.34463869565217403,
+          "base_time": 95.77235869565217,
+          "correlation": -0.3545962421385279,
+          "laps_analyzed": 846
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.01628781512605049,
+          "base_time": 90.14172352941175,
+          "correlation": -0.054131842248003686,
+          "laps_analyzed": 600
+        },
+        "HARD": {
+          "degradation_rate": -0.031605742296918704,
+          "base_time": 92.23874621848738,
+          "correlation": -0.05619096340273217,
+          "laps_analyzed": 188
+        }
+      },
+      "Australia": {
+        "MEDIUM": {
+          "degradation_rate": -0.5037821146245057,
+          "base_time": 96.96966798418973,
+          "correlation": -0.3724202959021718,
+          "laps_analyzed": 678
+        },
+        "SOFT": {
+          "degradation_rate": -0.8801305469556242,
+          "base_time": 99.73087908496731,
+          "correlation": -0.47914619925374324,
+          "laps_analyzed": 743
+        },
+        "HARD": {
+          "degradation_rate": -0.35202120075046905,
+          "base_time": 93.90890961538462,
+          "correlation": -0.5919148639955286,
+          "laps_analyzed": 834
+        }
+      },
+      "Azerbaijan": {
+        "MEDIUM": {
+          "degradation_rate": 0.957148701298701,
+          "base_time": 109.64538809523812,
+          "correlation": 0.34572833053429797,
+          "laps_analyzed": 681
+        },
+        "SOFT": {
+          "degradation_rate": 0.05561887254902078,
+          "base_time": 128.05207720588234,
+          "correlation": 0.015820518090039305,
+          "laps_analyzed": 765
+        },
+        "HARD": {
+          "degradation_rate": -0.13308771106941822,
+          "base_time": 113.26394807692306,
+          "correlation": -0.34021560493046776,
+          "laps_analyzed": 681
+        }
+      },
+      "Bahrain": {
+        "MEDIUM": {
+          "degradation_rate": -0.10897891304347848,
+          "base_time": 103.20104891304348,
+          "correlation": -0.1503633296252388,
+          "laps_analyzed": 706
+        },
+        "SOFT": {
+          "degradation_rate": -0.2810115217391304,
+          "base_time": 105.45387318840581,
+          "correlation": -0.3517886962187429,
+          "laps_analyzed": 1341
+        },
+        "HARD": {
+          "degradation_rate": -0.24194999999999994,
+          "base_time": 103.13407894736841,
+          "correlation": -0.27384782416639897,
+          "laps_analyzed": 216
+        }
+      },
+      "United States": {
+        "MEDIUM": {
+          "degradation_rate": -0.1473411751832806,
+          "base_time": 107.19391607396871,
+          "correlation": -0.31150614677268157,
+          "laps_analyzed": 533
+        },
+        "SOFT": {
+          "degradation_rate": -0.07901363636363613,
+          "base_time": 118.8031976190476,
+          "correlation": -0.027095765000216338,
+          "laps_analyzed": 626
+        },
+        "HARD": {
+          "degradation_rate": -0.10367638691322886,
+          "base_time": 106.19904480796586,
+          "correlation": -0.34114818735769364,
+          "laps_analyzed": 648
+        }
+      },
+      "Japan": {
+        "INTERMEDIATE": {
+          "degradation_rate": 0.6525676307007786,
+          "base_time": 104.2361183908046,
+          "correlation": 0.41323157815301353,
+          "laps_analyzed": 724
+        },
+        "WET": {
+          "degradation_rate": -1.7012561274509805,
+          "base_time": 147.3420992647059,
+          "correlation": -0.43164275613838893,
+          "laps_analyzed": 187
+        },
+        "SOFT": {
+          "degradation_rate": -0.42937802197802194,
+          "base_time": 106.37914175824174,
+          "correlation": -0.2118555160060563,
+          "laps_analyzed": 409
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.845847252747252,
+          "base_time": 108.80131868131869,
+          "correlation": -0.42297521582525427,
+          "laps_analyzed": 161
+        },
+        "HARD": {
+          "degradation_rate": 2.0290083333333335,
+          "base_time": 88.81694999999999,
+          "correlation": 0.8122268896829291,
+          "laps_analyzed": 32
+        }
+      },
+      "Hungary": {
+        "MEDIUM": {
+          "degradation_rate": -0.06053877005347598,
+          "base_time": 86.90059848484849,
+          "correlation": -0.16985027758057053,
+          "laps_analyzed": 1078
+        },
+        "SOFT": {
+          "degradation_rate": -0.034322906403940895,
+          "base_time": 90.21651600985223,
+          "correlation": -0.03564827496190521,
+          "laps_analyzed": 979
+        },
+        "HARD": {
+          "degradation_rate": -0.10624183864915562,
+          "base_time": 87.98783269230768,
+          "correlation": -0.36944372596410346,
+          "laps_analyzed": 472
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": 1.0403566911206679,
+          "base_time": 112.96979433341768,
+          "correlation": 0.3310558175471993,
+          "laps_analyzed": 114
+        },
+        "WET": {
+          "degradation_rate": 2.5178489010989002,
+          "base_time": 96.01682417582418,
+          "correlation": 0.7074585886871055,
+          "laps_analyzed": 108
+        }
+      },
+      "Singapore": {
+        "HARD": {
+          "degradation_rate": 1.2138529411764702,
+          "base_time": 107.53114705882352,
+          "correlation": 0.4829811527731028,
+          "laps_analyzed": 139
+        },
+        "SOFT": {
+          "degradation_rate": -0.6337700854700854,
+          "base_time": 124.55656923076924,
+          "correlation": -0.46312401348696713,
+          "laps_analyzed": 392
+        },
+        "MEDIUM": {
+          "degradation_rate": -1.0292229059829066,
+          "base_time": 130.87339384615385,
+          "correlation": -0.6329256893577242,
+          "laps_analyzed": 571
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": -0.23640121457489854,
+          "base_time": 133.2059601889339,
+          "correlation": -0.21930725840884954,
+          "laps_analyzed": 956
+        },
+        "WET": {
+          "degradation_rate": 5.818800000000001,
+          "base_time": 121.56519999999998,
+          "correlation": 0.9333124574204431,
+          "laps_analyzed": 29
+        }
+      },
+      "Great Britain": {
+        "MEDIUM": {
+          "degradation_rate": -0.2318556022408965,
+          "base_time": 100.74581512605042,
+          "correlation": -0.2844088800799196,
+          "laps_analyzed": 388
+        },
+        "HARD": {
+          "degradation_rate": -0.009644993894994002,
+          "base_time": 96.16115954415955,
+          "correlation": -0.013453557282838405,
+          "laps_analyzed": 182
+        },
+        "SOFT": {
+          "degradation_rate": -1.0896805194805197,
+          "base_time": 110.68979523809526,
+          "correlation": -0.4888302956432323,
+          "laps_analyzed": 211
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": -1.0994590909090909,
+          "base_time": 118.31416363636363,
+          "correlation": -0.32805968047107603,
+          "laps_analyzed": 375
+        }
+      },
+      "Mexico": {
+        "MEDIUM": {
+          "degradation_rate": -0.07283039399624773,
+          "base_time": 86.35654807692309,
+          "correlation": -0.28339023633538113,
+          "laps_analyzed": 800
+        },
+        "SOFT": {
+          "degradation_rate": -0.15731502352554977,
+          "base_time": 88.95082716927455,
+          "correlation": -0.39086158422559153,
+          "laps_analyzed": 1022
+        },
+        "HARD": {
+          "degradation_rate": -0.12536852720450276,
+          "base_time": 87.5141173076923,
+          "correlation": -0.45272827899555623,
+          "laps_analyzed": 437
+        }
+      },
+      "Monaco": {
+        "INTERMEDIATE": {
+          "degradation_rate": -1.383193675889328,
+          "base_time": 115.96249999999999,
+          "correlation": -0.6667344564934489,
+          "laps_analyzed": 119
+        },
+        "HARD": {
+          "degradation_rate": -0.7241232645403378,
+          "base_time": 104.00765192307693,
+          "correlation": -0.9482710531747838,
+          "laps_analyzed": 594
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.2164893058161351,
+          "base_time": 85.14933076923077,
+          "correlation": -0.4907431564146877,
+          "laps_analyzed": 390
+        },
+        "WET": {
+          "degradation_rate": -1.2246511867905054,
+          "base_time": 113.95955968352251,
+          "correlation": -0.7418429480892119,
+          "laps_analyzed": 18
+        },
+        "SOFT": {
+          "degradation_rate": 1.0402847744360901,
+          "base_time": 83.96024718045113,
+          "correlation": 0.41531159642776105,
+          "laps_analyzed": 709
+        }
+      },
+      "Saudi Arabia": {
+        "MEDIUM": {
+          "degradation_rate": 1.6476363636363638,
+          "base_time": 91.49429841897232,
+          "correlation": 0.5458400143297574,
+          "laps_analyzed": 518
+        },
+        "SOFT": {
+          "degradation_rate": 1.3362100103199173,
+          "base_time": 100.5677549019608,
+          "correlation": 0.40754143190642284,
+          "laps_analyzed": 837
+        },
+        "HARD": {
+          "degradation_rate": -0.14791430581613513,
+          "base_time": 103.07185576923078,
+          "correlation": -0.15104349873950035,
+          "laps_analyzed": 724
+        }
+      },
+      "Italy": {
+        "MEDIUM": {
+          "degradation_rate": -0.07505742296918781,
+          "base_time": 89.58704789915967,
+          "correlation": -0.2132375173561752,
+          "laps_analyzed": 799
+        },
+        "SOFT": {
+          "degradation_rate": -0.23909076923076927,
+          "base_time": 96.30958000000001,
+          "correlation": -0.16257375662754392,
+          "laps_analyzed": 995
+        },
+        "HARD": {
+          "degradation_rate": 0.3152050836550835,
+          "base_time": 85.12919206349206,
+          "correlation": 0.39441808036460546,
+          "laps_analyzed": 516
+        }
+      },
+      "Emilia Romagna": {
+        "SOFT": {
+          "degradation_rate": -0.7385360671936761,
+          "base_time": 93.52928063241106,
+          "correlation": -0.5218982405538696,
+          "laps_analyzed": 537
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.2072322232645402,
+          "base_time": 87.54724807692307,
+          "correlation": -0.4268377253175779,
+          "laps_analyzed": 716
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": -0.5678937048503617,
+          "base_time": 103.08660612315103,
+          "correlation": -0.3776933630211767,
+          "laps_analyzed": 482
+        },
+        "HARD": {
+          "degradation_rate": -0.18457771260997083,
+          "base_time": 86.52765725806452,
+          "correlation": -0.3339194814008126,
+          "laps_analyzed": 32
+        },
+        "WET": {
+          "degradation_rate": 2.6728241758241755,
+          "base_time": 87.55998351648351,
+          "correlation": 0.6656365557170365,
+          "laps_analyzed": 161
+        }
+      },
+      "Miami": {
+        "MEDIUM": {
+          "degradation_rate": -0.23738754171301418,
+          "base_time": 100.66957356321838,
+          "correlation": -0.3355639778210427,
+          "laps_analyzed": 767
+        },
+        "SOFT": {
+          "degradation_rate": -0.3186228070175442,
+          "base_time": 111.62183333333331,
+          "correlation": -0.13324484885558954,
+          "laps_analyzed": 825
+        },
+        "HARD": {
+          "degradation_rate": -0.08792865853658534,
+          "base_time": 97.15745,
+          "correlation": -0.38437124199651884,
+          "laps_analyzed": 668
+        }
+      },
+      "Austria": {
+        "MEDIUM": {
+          "degradation_rate": -0.07644957786116312,
+          "base_time": 72.88427884615383,
+          "correlation": -0.2714786538163568,
+          "laps_analyzed": 1126
+        },
+        "SOFT": {
+          "degradation_rate": -0.4365506521739135,
+          "base_time": 79.97349630434783,
+          "correlation": -0.4863120666852249,
+          "laps_analyzed": 517
+        },
+        "HARD": {
+          "degradation_rate": -0.0869428236397749,
+          "base_time": 73.6064903846154,
+          "correlation": -0.3701344128732802,
+          "laps_analyzed": 642
+        }
+      },
+      "Canada": {
+        "MEDIUM": {
+          "degradation_rate": -0.34159458128078823,
+          "base_time": 86.78438423645319,
+          "correlation": -0.47445456421067383,
+          "laps_analyzed": 962
+        },
+        "SOFT": {
+          "degradation_rate": -0.10834025974025964,
+          "base_time": 88.4303619047619,
+          "correlation": -0.05235439495303791,
+          "laps_analyzed": 385
+        },
+        "HARD": {
+          "degradation_rate": -0.0561274390243902,
+          "base_time": 80.575525,
+          "correlation": -0.2636305964143928,
+          "laps_analyzed": 904
+        },
+        "WET": {
+          "degradation_rate": -0.2730370129870132,
+          "base_time": 101.84671666666667,
+          "correlation": -0.3983287738387939,
+          "laps_analyzed": 356
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": 2.3434666666666684,
+          "base_time": 89.86953333333332,
+          "correlation": 0.5725631179405305,
+          "laps_analyzed": 262
+        }
+      }
+    },
+    "optimal_stints": {
+      "MEDIUM": {
+        "optimal_stint_length": 1.0,
+        "baseline_time": 103.25166666666667,
+        "max_analyzed_age": 40.0,
+        "performance_curve": {
+          "1.0": 114.667,
+          "2.0": 94.00999999999999,
+          "3.0": 101.07799999999999,
+          "4.0": 95.0545,
+          "5.0": 99.0,
+          "6.0": 95.86800000000001,
+          "7.0": 96.44500000000001,
+          "8.0": 94.81899999999999,
+          "9.0": 95.5515,
+          "10.0": 94.46499999999999,
+          "11.0": 93.793,
+          "12.0": 92.406,
+          "13.0": 88.457,
+          "14.0": 87.607,
+          "15.0": 86.9485,
+          "16.0": 86.40100000000001,
+          "17.0": 85.746,
+          "18.0": 85.269,
+          "19.0": 84.77,
+          "20.0": 84.38,
+          "21.0": 84.048,
+          "22.0": 84.32900000000001,
+          "23.0": 83.81450000000001,
+          "24.0": 83.4925,
+          "25.0": 83.00999999999999,
+          "26.0": 83.621,
+          "27.0": 84.184,
+          "28.0": 83.1795,
+          "29.0": 83.073,
+          "30.0": 84.338,
+          "31.0": 83.82300000000001,
+          "32.0": 83.38300000000001,
+          "33.0": 82.4195,
+          "34.0": 82.408,
+          "35.0": 82.156,
+          "36.0": 82.237,
+          "37.0": 82.207,
+          "38.0": 82.071,
+          "39.0": 82.7355,
+          "40.0": 82.013
+        }
+      },
+      "SOFT": {
+        "optimal_stint_length": 1.0,
+        "baseline_time": 106.5355,
+        "max_analyzed_age": 38.0,
+        "performance_curve": {
+          "1.0": 113.1375,
+          "2.0": 91.092,
+          "3.0": 115.37699999999998,
+          "4.0": 103.182,
+          "5.0": 97.526,
+          "6.0": 101.22200000000001,
+          "7.0": 98.756,
+          "8.0": 97.153,
+          "9.0": 96.526,
+          "10.0": 94.41900000000001,
+          "11.0": 90.0695,
+          "12.0": 89.613,
+          "13.0": 88.201,
+          "14.0": 87.6755,
+          "15.0": 87.13,
+          "16.0": 85.82,
+          "17.0": 84.7505,
+          "18.0": 82.0635,
+          "19.0": 81.511,
+          "20.0": 81.585,
+          "21.0": 81.689,
+          "22.0": 80.061,
+          "23.0": 78.06700000000001,
+          "24.0": 77.4025,
+          "25.0": 82.955,
+          "26.0": 83.318,
+          "27.0": 80.81349999999999,
+          "28.0": 83.346,
+          "29.0": 83.98849999999999,
+          "30.0": 84.1325,
+          "31.0": 83.90700000000001,
+          "32.0": 83.999,
+          "33.0": 83.82300000000001,
+          "34.0": 84.30699999999999,
+          "35.0": 84.588,
+          "36.0": 84.971,
+          "37.0": 85.14,
+          "38.0": 88.89
+        }
+      },
+      "HARD": {
+        "optimal_stint_length": 1.0,
+        "baseline_time": 102.05883333333334,
+        "max_analyzed_age": 40.0,
+        "performance_curve": {
+          "1.0": 111.8125,
+          "2.0": 96.2685,
+          "3.0": 98.0955,
+          "4.0": 97.15100000000001,
+          "5.0": 98.619,
+          "6.0": 96.96699999999998,
+          "7.0": 97.797,
+          "8.0": 96.13,
+          "9.0": 96.30100000000002,
+          "10.0": 96.248,
+          "11.0": 95.387,
+          "12.0": 94.083,
+          "13.0": 93.726,
+          "14.0": 93.313,
+          "15.0": 93.537,
+          "16.0": 93.80599999999998,
+          "17.0": 93.6565,
+          "18.0": 93.875,
+          "19.0": 92.069,
+          "20.0": 89.45349999999999,
+          "21.0": 88.0265,
+          "22.0": 91.15299999999999,
+          "23.0": 86.9975,
+          "24.0": 87.196,
+          "25.0": 86.83699999999999,
+          "26.0": 87.7855,
+          "27.0": 87.15599999999999,
+          "28.0": 88.05949999999999,
+          "29.0": 90.29400000000001,
+          "30.0": 92.044,
+          "31.0": 91.844,
+          "32.0": 88.05199999999999,
+          "33.0": 89.6185,
+          "34.0": 85.3275,
+          "35.0": 84.85849999999999,
+          "36.0": 83.3985,
+          "37.0": 83.8065,
+          "38.0": 83.60849999999999,
+          "39.0": 82.513,
+          "40.0": 78.90350000000001
+        }
+      },
+      "INTERMEDIATE": {
+        "optimal_stint_length": 1.0,
+        "baseline_time": 116.26699999999998,
+        "max_analyzed_age": 39.0,
+        "performance_curve": {
+          "1.0": 131.66899999999998,
+          "2.0": 108.707,
+          "3.0": 108.42499999999998,
+          "4.0": 110.414,
+          "5.0": 108.888,
+          "6.0": 107.49099999999999,
+          "7.0": 108.9375,
+          "8.0": 113.52900000000001,
+          "9.0": 114.2055,
+          "10.0": 108.365,
+          "11.0": 110.80199999999999,
+          "12.0": 109.103,
+          "13.0": 109.271,
+          "14.0": 109.012,
+          "15.0": 109.06400000000001,
+          "16.0": 109.2185,
+          "17.0": 109.22399999999999,
+          "18.0": 109.2495,
+          "19.0": 111.315,
+          "20.0": 110.27700000000002,
+          "21.0": 110.4385,
+          "22.0": 115.94900000000001,
+          "23.0": 119.794,
+          "24.0": 119.302,
+          "25.0": 119.92949999999999,
+          "26.0": 137.699,
+          "27.0": 120.564,
+          "28.0": 133.595,
+          "29.0": 157.487,
+          "30.0": 127.9545,
+          "31.0": 118.834,
+          "32.0": 118.75300000000001,
+          "33.0": 119.323,
+          "34.0": 119.4405,
+          "35.0": 125.71700000000001,
+          "36.0": 137.1415,
+          "37.0": 119.62200000000001,
+          "38.0": 118.716,
+          "39.0": 126.96100000000001
+        }
+      },
+      "WET": {
+        "optimal_stint_length": 1.0,
+        "baseline_time": 110.0195,
+        "max_analyzed_age": 21.0,
+        "performance_curve": {
+          "1.0": 113.95500000000001,
+          "2.0": 107.8435,
+          "3.0": 108.25999999999999,
+          "4.0": 106.591,
+          "5.0": 104.3235,
+          "6.0": 104.252,
+          "7.0": 104.578,
+          "8.0": 101.91,
+          "9.0": 100.648,
+          "10.0": 104.93950000000001,
+          "11.0": 107.99450000000002,
+          "12.0": 105.926,
+          "13.0": 109.615,
+          "14.0": 110.581,
+          "15.0": 102.63,
+          "16.0": 107.3115,
+          "17.0": 95.2825,
+          "18.0": 101.0695,
+          "19.0": 95.77799999999999,
+          "20.0": 99.858,
+          "21.0": 95.11099999999999
+        }
+      }
+    },
+    "team_tire_management": {
+      "RBR": {
+        "MEDIUM": {
+          "degradation_rate": -0.4401036116322702,
+          "correlation": -0.8154300559949249,
+          "avg_stint_length": 11.819763828464884,
+          "max_stint_length": 40.0
+        },
+        "SOFT": {
+          "degradation_rate": -0.9157653042521993,
+          "correlation": -0.8525591122976912,
+          "avg_stint_length": 7.429530201342282,
+          "max_stint_length": 32.0
+        },
+        "HARD": {
+          "degradation_rate": -0.23588275522486044,
+          "correlation": -0.6609003234396276,
+          "avg_stint_length": 12.407988587731811,
+          "max_stint_length": 38.0
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": 0.5904103641456584,
+          "correlation": 0.5193211249072023,
+          "avg_stint_length": 10.577608142493638,
+          "max_stint_length": 35.0
+        },
+        "WET": {
+          "degradation_rate": -1.1861538461538463,
+          "correlation": -0.7617967543708455,
+          "avg_stint_length": 5.719298245614035,
+          "max_stint_length": 14.0
+        }
+      },
+      "AT": {
+        "SOFT": {
+          "degradation_rate": -0.8275674082313687,
+          "correlation": -0.7876621259479377,
+          "avg_stint_length": 7.437353629976581,
+          "max_stint_length": 30.0
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.5467908067542215,
+          "correlation": -0.8206341159906922,
+          "avg_stint_length": 10.933908045977011,
+          "max_stint_length": 40.0
+        },
+        "HARD": {
+          "degradation_rate": -0.6271291275797375,
+          "correlation": -0.956178637576501,
+          "avg_stint_length": 14.004739336492891,
+          "max_stint_length": 40.0
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": 0.5034519230769232,
+          "correlation": 0.5245187666260889,
+          "avg_stint_length": 9.635220125786164,
+          "max_stint_length": 39.0
+        },
+        "WET": {
+          "degradation_rate": 2.802669642857143,
+          "correlation": 0.7560879394919598,
+          "avg_stint_length": 5.559633027522936,
+          "max_stint_length": 15.0
+        }
+      },
+      "ALP": {
+        "SOFT": {
+          "degradation_rate": -1.256604395604396,
+          "correlation": -0.8853899270191288,
+          "avg_stint_length": 6.947437582128778,
+          "max_stint_length": 27.0
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.5486996247654785,
+          "correlation": -0.7556727795150384,
+          "avg_stint_length": 10.928468208092486,
+          "max_stint_length": 40.0
+        },
+        "HARD": {
+          "degradation_rate": -0.3190656660412758,
+          "correlation": -0.7449977174023208,
+          "avg_stint_length": 14.857378400659522,
+          "max_stint_length": 40.0
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": 1.0526929914529914,
+          "correlation": 0.7575757197388194,
+          "avg_stint_length": 7.179661016949153,
+          "max_stint_length": 26.0
+        },
+        "WET": {
+          "degradation_rate": -1.735584848484849,
+          "correlation": -0.8621471161445584,
+          "avg_stint_length": 4.67741935483871,
+          "max_stint_length": 10.0
+        }
+      },
+      "FER": {
+        "SOFT": {
+          "degradation_rate": -0.8505821114369503,
+          "correlation": -0.7288897618193763,
+          "avg_stint_length": 7.475571725571726,
+          "max_stint_length": 32.0
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.40488644465290813,
+          "correlation": -0.7272714604811618,
+          "avg_stint_length": 11.293276108726753,
+          "max_stint_length": 40.0
+        },
+        "HARD": {
+          "degradation_rate": -0.563730300187617,
+          "correlation": -0.8794828154043871,
+          "avg_stint_length": 13.137755102040817,
+          "max_stint_length": 40.0
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": 0.692214425770308,
+          "correlation": 0.5294837204766345,
+          "avg_stint_length": 9.340490797546012,
+          "max_stint_length": 35.0
+        },
+        "WET": {
+          "degradation_rate": 1.8569424313725493,
+          "correlation": 0.4787600492495505,
+          "avg_stint_length": 5.821428571428571,
+          "max_stint_length": 17.0
+        }
+      },
+      "AM": {
+        "SOFT": {
+          "degradation_rate": -0.5518104825473246,
+          "correlation": -0.6791802256403525,
+          "avg_stint_length": 7.873981191222571,
+          "max_stint_length": 38.0
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.6653172607879921,
+          "correlation": -0.8809085864156363,
+          "avg_stint_length": 11.612244897959183,
+          "max_stint_length": 40.0
+        },
+        "HARD": {
+          "degradation_rate": -0.36518808630393995,
+          "correlation": -0.6329151743942613,
+          "avg_stint_length": 14.762407602956705,
+          "max_stint_length": 40.0
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": 0.4904857142857146,
+          "correlation": 0.4408157487389676,
+          "avg_stint_length": 10.657051282051283,
+          "max_stint_length": 35.0
+        },
+        "WET": {
+          "degradation_rate": -0.25646904024767797,
+          "correlation": -0.15566494882161835,
+          "avg_stint_length": 5.180722891566265,
+          "max_stint_length": 18.0
+        }
+      },
+      "HAS": {
+        "SOFT": {
+          "degradation_rate": -0.7553704481792717,
+          "correlation": -0.770938614057759,
+          "avg_stint_length": 7.406732117812061,
+          "max_stint_length": 35.0
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.38405600375234533,
+          "correlation": -0.6912506056638159,
+          "avg_stint_length": 11.570921985815604,
+          "max_stint_length": 40.0
+        },
+        "HARD": {
+          "degradation_rate": -0.44247321763602243,
+          "correlation": -0.8951457218789673,
+          "avg_stint_length": 13.47905477980666,
+          "max_stint_length": 40.0
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": 0.5433813598166539,
+          "correlation": 0.5283137738454657,
+          "avg_stint_length": 7.8808777429467085,
+          "max_stint_length": 34.0
+        },
+        "WET": {
+          "degradation_rate": -0.5884105263157899,
+          "correlation": -0.3664397342998659,
+          "avg_stint_length": 6.653846153846154,
+          "max_stint_length": 19.0
+        }
+      },
+      "WIL": {
+        "SOFT": {
+          "degradation_rate": -0.6531699046920822,
+          "correlation": -0.7162918786761245,
+          "avg_stint_length": 6.759084791386272,
+          "max_stint_length": 32.0
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.4869812851782366,
+          "correlation": -0.8606947919293092,
+          "avg_stint_length": 10.744798890429959,
+          "max_stint_length": 40.0
+        },
+        "HARD": {
+          "degradation_rate": -0.2132828799249532,
+          "correlation": -0.4970986314035828,
+          "avg_stint_length": 14.314401622718053,
+          "max_stint_length": 40.0
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": 0.5245353846153848,
+          "correlation": 0.28234357339641397,
+          "avg_stint_length": 7.288288288288288,
+          "max_stint_length": 25.0
+        },
+        "WET": {
+          "degradation_rate": 0.0009090909090916326,
+          "correlation": 0.0005350896030932108,
+          "avg_stint_length": 5.280487804878049,
+          "max_stint_length": 11.0
+        }
+      },
+      "AR": {
+        "SOFT": {
+          "degradation_rate": -1.0490449961802901,
+          "correlation": -0.8918375411287225,
+          "avg_stint_length": 7.152086137281292,
+          "max_stint_length": 34.0
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.45375525328330224,
+          "correlation": -0.8592203798665539,
+          "avg_stint_length": 11.736842105263158,
+          "max_stint_length": 40.0
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": 0.7458907085561497,
+          "correlation": 0.5756891399902281,
+          "avg_stint_length": 8.009708737864077,
+          "max_stint_length": 33.0
+        },
+        "HARD": {
+          "degradation_rate": -0.6069471857410883,
+          "correlation": -0.9229857205258588,
+          "avg_stint_length": 14.259428571428572,
+          "max_stint_length": 40.0
+        },
+        "WET": {
+          "degradation_rate": 1.1598241758241752,
+          "correlation": 0.3604374878899849,
+          "avg_stint_length": 5.8173076923076925,
+          "max_stint_length": 14.0
+        }
+      },
+      "MCL": {
+        "SOFT": {
+          "degradation_rate": -1.0634102564102563,
+          "correlation": -0.814066031894066,
+          "avg_stint_length": 6.583053127101547,
+          "max_stint_length": 26.0
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.5190956378986867,
+          "correlation": -0.8192217292654427,
+          "avg_stint_length": 10.873698820263705,
+          "max_stint_length": 40.0
+        },
+        "HARD": {
+          "degradation_rate": -0.5905465290806755,
+          "correlation": -0.8526841897645272,
+          "avg_stint_length": 13.586294416243655,
+          "max_stint_length": 40.0
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": 0.619325611325611,
+          "correlation": 0.5085831713964104,
+          "avg_stint_length": 9.214705882352941,
+          "max_stint_length": 36.0
+        },
+        "WET": {
+          "degradation_rate": -1.8228666666666669,
+          "correlation": -0.6746682492360164,
+          "avg_stint_length": 4.144927536231884,
+          "max_stint_length": 10.0
+        }
+      },
+      "MER": {
+        "SOFT": {
+          "degradation_rate": -1.1346195564516126,
+          "correlation": -0.9458693360864828,
+          "avg_stint_length": 6.960511033681765,
+          "max_stint_length": 31.0
+        },
+        "MEDIUM": {
+          "degradation_rate": -0.4855330206378985,
+          "correlation": -0.7780584481368336,
+          "avg_stint_length": 12.032911392405063,
+          "max_stint_length": 40.0
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": 0.6141173414820476,
+          "correlation": 0.48042310128132587,
+          "avg_stint_length": 8.701492537313433,
+          "max_stint_length": 34.0
+        },
+        "HARD": {
+          "degradation_rate": -0.269776360225141,
+          "correlation": -0.6529498794388463,
+          "avg_stint_length": 14.053294573643411,
+          "max_stint_length": 40.0
+        },
+        "WET": {
+          "degradation_rate": -0.6508675324675323,
+          "correlation": -0.7278244859530327,
+          "avg_stint_length": 7.493670886075949,
+          "max_stint_length": 21.0
+        }
+      },
+      "UNK": {
+        "MEDIUM": {
+          "degradation_rate": 1.31241581632653,
+          "correlation": 0.2332072261287055,
+          "avg_stint_length": 8.095238095238095,
+          "max_stint_length": 17.0
+        },
+        "SOFT": {
+          "degradation_rate": 2.122941216216217,
+          "correlation": 0.2358112942153835,
+          "avg_stint_length": 5.615384615384615,
+          "max_stint_length": 11.0
+        }
+      }
+    }
+  }
+}
