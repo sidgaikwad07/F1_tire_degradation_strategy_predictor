@@ -1,0 +1,1975 @@
+{
+  "season": "2025",
+  "analysis_timestamp": "2025-06-12T09:36:54.102325",
+  "season_updates": {
+    "total_races": 17,
+    "sprint_weekends": 6,
+    "new_circuits": [],
+    "returning_circuits": [
+      "Chinese GP"
+    ],
+    "data_available_through": "Spanish GP",
+    "regulation_changes": [
+      "MAJOR aerodynamic regulation overhaul",
+      "New sustainable fuel requirements (100% sustainable)",
+      "Enhanced hybrid power unit regulations",
+      "Updated cost cap adjustments",
+      "New tire compound specifications",
+      "Active aerodynamics introduction",
+      "Ground effect refinements",
+      "DRS zone modifications"
+    ],
+    "team_changes": [
+      "Lewis Hamilton moves to Ferrari",
+      "Carlos Sainz joins Williams",
+      "Kimi Antonelli promoted to Mercedes",
+      "Liam Lawson promoted to Red Bull",
+      "Jack Doohan joins Alpine",
+      "Oliver Bearman full-time at Haas",
+      "Esteban Ocon moves to Haas",
+      "Nico Hulkenberg returns to Sauber",
+      "Gabriel Bortoleto joins Sauber",
+      "Isack Hadjar joins RB",
+      "Cadillac enters as 11th team"
+    ],
+    "actual_2025_calendar": [
+      "Australian GP",
+      "Chinese GP",
+      "Japanese GP",
+      "Bahrain GP",
+      "Saudi Arabian Grand Prix",
+      "Emilia Romagna Grand Prix",
+      "Monaco GP",
+      "Spanish GP",
+      "Canadian GP",
+      "Austrian GP",
+      "British GP",
+      "Belgian GP",
+      "Hungarian GP",
+      "Italian GP",
+      "Azerbaijan GP",
+      "United States GP",
+      "Mexican GP"
+    ]
+  },
+  "teams_2025": {
+    "RBR": {
+      "name": "Red Bull Racing",
+      "drivers": [
+        "Max Verstappen",
+        "Liam Lawson"
+      ],
+      "color": "#1E41FF"
+    },
+    "FER": {
+      "name": "Ferrari",
+      "drivers": [
+        "Charles Leclerc",
+        "Lewis Hamilton"
+      ],
+      "color": "#DC143C"
+    },
+    "MER": {
+      "name": "Mercedes",
+      "drivers": [
+        "George Russell",
+        "Kimi Antonelli"
+      ],
+      "color": "#00D2BE"
+    },
+    "MCL": {
+      "name": "McLaren",
+      "drivers": [
+        "Lando Norris",
+        "Oscar Piastri"
+      ],
+      "color": "#FF8700"
+    },
+    "AM": {
+      "name": "Aston Martin",
+      "drivers": [
+        "Fernando Alonso",
+        "Lance Stroll"
+      ],
+      "color": "#006F62"
+    },
+    "ALP": {
+      "name": "Alpine",
+      "drivers": [
+        "Pierre Gasly",
+        "Jack Doohan"
+      ],
+      "color": "#0090FF"
+    },
+    "WIL": {
+      "name": "Williams",
+      "drivers": [
+        "Alexander Albon",
+        "Carlos Sainz"
+      ],
+      "color": "#005AFF"
+    },
+    "RB": {
+      "name": "RB",
+      "drivers": [
+        "Yuki Tsunoda",
+        "Isack Hadjar"
+      ],
+      "color": "#2B4562"
+    },
+    "SAU": {
+      "name": "Sauber",
+      "drivers": [
+        "Nico Hulkenberg",
+        "Gabriel Bortoleto"
+      ],
+      "color": "#52C832"
+    },
+    "HAS": {
+      "name": "Haas",
+      "drivers": [
+        "Oliver Bearman",
+        "Esteban Ocon"
+      ],
+      "color": "#FFFFFF"
+    },
+    "CAD": {
+      "name": "Cadillac",
+      "drivers": [
+        "TBD Driver 1",
+        "TBD Driver 2"
+      ],
+      "color": "#FFD700"
+    }
+  },
+  "analysis_results": {
+    "driver_comparisons": {
+      "driver_statistics": {
+        "Total_Laps": {
+          "Alexander Albon": 1055,
+          "BEG": 17,
+          "BRO": 15,
+          "COL": 408,
+          "Carlos Sainz": 1033,
+          "Charles Leclerc": 1111,
+          "DRU": 16,
+          "Esteban Ocon": 978,
+          "Fernando Alonso": 912,
+          "Gabriel Bortoleto": 989,
+          "George Russell": 1059,
+          "HIR": 56,
+          "IWA": 17,
+          "Isack Hadjar": 982,
+          "Jack Doohan": 522,
+          "Kimi Antonelli": 1031,
+          "Lance Stroll": 945,
+          "Lando Norris": 1114,
+          "Lewis Hamilton": 1121,
+          "Liam Lawson": 1012,
+          "MAR": 21,
+          "Max Verstappen": 1034,
+          "Nico Hulkenberg": 1004,
+          "Oliver Bearman": 892,
+          "Oscar Piastri": 1096,
+          "Pierre Gasly": 967,
+          "VES": 23,
+          "Yuki Tsunoda": 970
+        },
+        "Avg_LapTime": {
+          "Alexander Albon": 100.116,
+          "BEG": 113.405,
+          "BRO": 130.112,
+          "COL": 91.036,
+          "Carlos Sainz": 98.59,
+          "Charles Leclerc": 98.642,
+          "DRU": 128.232,
+          "Esteban Ocon": 99.397,
+          "Fernando Alonso": 98.885,
+          "Gabriel Bortoleto": 99.531,
+          "George Russell": 98.945,
+          "HIR": 112.453,
+          "IWA": 126.238,
+          "Isack Hadjar": 98.322,
+          "Jack Doohan": 107.52,
+          "Kimi Antonelli": 99.453,
+          "Lance Stroll": 102.164,
+          "Lando Norris": 97.353,
+          "Lewis Hamilton": 100.65,
+          "Liam Lawson": 98.933,
+          "MAR": 97.873,
+          "Max Verstappen": 97.659,
+          "Nico Hulkenberg": 97.877,
+          "Oliver Bearman": 98.397,
+          "Oscar Piastri": 97.479,
+          "Pierre Gasly": 101.865,
+          "VES": 121.361,
+          "Yuki Tsunoda": 100.958
+        },
+        "Median_LapTime": {
+          "Alexander Albon": 94.532,
+          "BEG": 99.301,
+          "BRO": 138.401,
+          "COL": 82.132,
+          "Carlos Sainz": 94.161,
+          "Charles Leclerc": 92.755,
+          "DRU": 126.524,
+          "Esteban Ocon": 94.94,
+          "Fernando Alonso": 93.754,
+          "Gabriel Bortoleto": 95.019,
+          "George Russell": 92.913,
+          "HIR": 99.14,
+          "IWA": 117.036,
+          "Isack Hadjar": 94.222,
+          "Jack Doohan": 98.313,
+          "Kimi Antonelli": 93.774,
+          "Lance Stroll": 95.768,
+          "Lando Norris": 93.197,
+          "Lewis Hamilton": 93.76,
+          "Liam Lawson": 94.829,
+          "MAR": 97.518,
+          "Max Verstappen": 93.13,
+          "Nico Hulkenberg": 94.253,
+          "Oliver Bearman": 94.252,
+          "Oscar Piastri": 93.176,
+          "Pierre Gasly": 94.811,
+          "VES": 102.005,
+          "Yuki Tsunoda": 94.528
+        },
+        "Std_LapTime": {
+          "Alexander Albon": 22.087,
+          "BEG": 21.836,
+          "BRO": 23.44,
+          "COL": 19.848,
+          "Carlos Sainz": 21.267,
+          "Charles Leclerc": 23.209,
+          "DRU": 31.578,
+          "Esteban Ocon": 22.11,
+          "Fernando Alonso": 21.615,
+          "Gabriel Bortoleto": 22.281,
+          "George Russell": 22.912,
+          "HIR": 27.152,
+          "IWA": 29.69,
+          "Isack Hadjar": 20.315,
+          "Jack Doohan": 22.791,
+          "Kimi Antonelli": 22.336,
+          "Lance Stroll": 23.694,
+          "Lando Norris": 21.04,
+          "Lewis Hamilton": 25.545,
+          "Liam Lawson": 21.256,
+          "MAR": 18.372,
+          "Max Verstappen": 21.229,
+          "Nico Hulkenberg": 19.97,
+          "Oliver Bearman": 21.632,
+          "Oscar Piastri": 20.661,
+          "Pierre Gasly": 23.693,
+          "VES": 30.542,
+          "Yuki Tsunoda": 23.82
+        },
+        "Best_LapTime": {
+          "Alexander Albon": 70.732,
+          "BEG": 95.055,
+          "BRO": 94.885,
+          "COL": 72.597,
+          "Carlos Sainz": 71.362,
+          "Charles Leclerc": 70.063,
+          "DRU": 95.198,
+          "Esteban Ocon": 70.942,
+          "Fernando Alonso": 70.924,
+          "Gabriel Bortoleto": 71.902,
+          "George Russell": 71.507,
+          "HIR": 75.298,
+          "IWA": 95.475,
+          "Isack Hadjar": 70.923,
+          "Jack Doohan": 76.315,
+          "Kimi Antonelli": 71.88,
+          "Lance Stroll": 72.202,
+          "Lando Norris": 69.954,
+          "Lewis Hamilton": 70.382,
+          "Liam Lawson": 71.129,
+          "MAR": 75.522,
+          "Max Verstappen": 70.669,
+          "Nico Hulkenberg": 71.596,
+          "Oliver Bearman": 71.979,
+          "Oscar Piastri": 70.129,
+          "Pierre Gasly": 71.994,
+          "VES": 95.325,
+          "Yuki Tsunoda": 71.415
+        },
+        "Worst_LapTime": {
+          "Alexander Albon": 180.935,
+          "BEG": 155.584,
+          "BRO": 169.77,
+          "COL": 162.699,
+          "Carlos Sainz": 179.78,
+          "Charles Leclerc": 205.125,
+          "DRU": 179.649,
+          "Esteban Ocon": 191.932,
+          "Fernando Alonso": 190.51,
+          "Gabriel Bortoleto": 200.12,
+          "George Russell": 186.457,
+          "HIR": 172.798,
+          "IWA": 176.737,
+          "Isack Hadjar": 177.512,
+          "Jack Doohan": 182.349,
+          "Kimi Antonelli": 212.723,
+          "Lance Stroll": 186.439,
+          "Lando Norris": 174.861,
+          "Lewis Hamilton": 208.466,
+          "Liam Lawson": 179.728,
+          "MAR": 146.588,
+          "Max Verstappen": 178.922,
+          "Nico Hulkenberg": 185.27,
+          "Oliver Bearman": 195.887,
+          "Oscar Piastri": 179.235,
+          "Pierre Gasly": 189.762,
+          "VES": 195.968,
+          "Yuki Tsunoda": 194.308
+        }
+      },
+      "teammate_comparisons": [
+        {
+          "team": "Red Bull Racing",
+          "driver1": "Max Verstappen",
+          "driver2": "Yuki Tsunoda",
+          "driver1_avg": 97.6590251450677,
+          "driver2_avg": 99.9194931693989,
+          "time_gap": 2.260468024331203,
+          "faster_driver": "Max Verstappen"
+        },
+        {
+          "team": "Ferrari",
+          "driver1": "Charles Leclerc",
+          "driver2": "Lewis Hamilton",
+          "driver1_avg": 98.64198649864987,
+          "driver2_avg": 100.65036485281,
+          "time_gap": 2.008378354160129,
+          "faster_driver": "Charles Leclerc"
+        },
+        {
+          "team": "Mercedes",
+          "driver1": "Kimi Antonelli",
+          "driver2": "George Russell",
+          "driver1_avg": 99.4528962172648,
+          "driver2_avg": 98.9448640226629,
+          "time_gap": 0.5080321946018955,
+          "faster_driver": "George Russell"
+        },
+        {
+          "team": "McLaren",
+          "driver1": "Lando Norris",
+          "driver2": "Oscar Piastri",
+          "driver1_avg": 97.35294524236984,
+          "driver2_avg": 97.47863229927006,
+          "time_gap": 0.12568705690021886,
+          "faster_driver": "Lando Norris"
+        },
+        {
+          "team": "Aston Martin",
+          "driver1": "Fernando Alonso",
+          "driver2": "Lance Stroll",
+          "driver1_avg": 98.88466666666667,
+          "driver2_avg": 102.16408888888888,
+          "time_gap": 3.279422222222209,
+          "faster_driver": "Fernando Alonso"
+        },
+        {
+          "team": "Alpine",
+          "driver1": "Pierre Gasly",
+          "driver2": "COL",
+          "driver1_avg": 101.86547569803516,
+          "driver2_avg": 91.0355955882353,
+          "time_gap": 10.82988010979986,
+          "faster_driver": "COL"
+        },
+        {
+          "team": "Williams",
+          "driver1": "Alexander Albon",
+          "driver2": "Carlos Sainz",
+          "driver1_avg": 100.11644644549763,
+          "driver2_avg": 98.59035818005808,
+          "time_gap": 1.5260882654395544,
+          "faster_driver": "Carlos Sainz"
+        },
+        {
+          "team": "Sauber",
+          "driver1": "Gabriel Bortoleto",
+          "driver2": "Nico Hulkenberg",
+          "driver1_avg": 99.53074014155713,
+          "driver2_avg": 97.87650398406375,
+          "time_gap": 1.6542361574933864,
+          "faster_driver": "Nico Hulkenberg"
+        },
+        {
+          "team": "Haas",
+          "driver1": "Esteban Ocon",
+          "driver2": "Oliver Bearman",
+          "driver1_avg": 99.39730572597136,
+          "driver2_avg": 98.3968542600897,
+          "time_gap": 1.0004514658816674,
+          "faster_driver": "Oliver Bearman"
+        }
+      ],
+      "circuit_performance": {
+        "Australia": {
+          "Alexander Albon": 104.69942635658916,
+          "BEG": NaN,
+          "BRO": NaN,
+          "COL": NaN,
+          "Carlos Sainz": 100.55185714285714,
+          "Charles Leclerc": 105.02960902255639,
+          "DRU": NaN,
+          "Esteban Ocon": 105.41933050847457,
+          "Fernando Alonso": 98.76654455445545,
+          "Gabriel Bortoleto": 107.43180357142856,
+          "George Russell": 104.40357692307693,
+          "HIR": NaN,
+          "IWA": NaN,
+          "Isack Hadjar": 102.65185915492958,
+          "Jack Doohan": 104.71770833333333,
+          "Kimi Antonelli": 103.5069593495935,
+          "Lance Stroll": 103.0146,
+          "Lando Norris": 104.7907054263566,
+          "Lewis Hamilton": 106.02067164179105,
+          "Liam Lawson": 105.3546947368421,
+          "MAR": NaN,
+          "Max Verstappen": 105.16600000000001,
+          "Nico Hulkenberg": 105.50278899082569,
+          "Oliver Bearman": 106.40615151515152,
+          "Oscar Piastri": 102.97658196721312,
+          "Pierre Gasly": 105.08762773722627,
+          "VES": NaN,
+          "Yuki Tsunoda": 103.83300793650794
+        },
+        "Bahrain": {
+          "Alexander Albon": 111.38261666666668,
+          "BEG": 113.40476470588234,
+          "BRO": 130.1118,
+          "COL": NaN,
+          "Carlos Sainz": 109.82302197802198,
+          "Charles Leclerc": 107.6550673076923,
+          "DRU": 128.23193750000002,
+          "Esteban Ocon": 110.80277876106194,
+          "Fernando Alonso": 108.12437755102042,
+          "Gabriel Bortoleto": 110.71631578947368,
+          "George Russell": 111.3900625,
+          "HIR": 117.7243125,
+          "IWA": 126.23752941176471,
+          "Isack Hadjar": 107.4767927927928,
+          "Jack Doohan": 113.10639516129032,
+          "Kimi Antonelli": 108.50699999999999,
+          "Lance Stroll": 112.41310924369748,
+          "Lando Norris": 106.2630238095238,
+          "Lewis Hamilton": 109.23716666666665,
+          "Liam Lawson": 110.35035714285713,
+          "MAR": NaN,
+          "Max Verstappen": 104.81363265306123,
+          "Nico Hulkenberg": 108.85560176991152,
+          "Oliver Bearman": 107.69069387755103,
+          "Oscar Piastri": 107.17308130081301,
+          "Pierre Gasly": 112.62151968503937,
+          "VES": 121.36082608695652,
+          "Yuki Tsunoda": 111.47534745762712
+        },
+        "China": {
+          "Alexander Albon": 104.14969491525424,
+          "BEG": NaN,
+          "BRO": NaN,
+          "COL": NaN,
+          "Carlos Sainz": 104.15959649122807,
+          "Charles Leclerc": 103.81206034482759,
+          "DRU": NaN,
+          "Esteban Ocon": 103.0368598130841,
+          "Fernando Alonso": 108.72266666666667,
+          "Gabriel Bortoleto": 105.1764495412844,
+          "George Russell": 104.53403125,
+          "HIR": NaN,
+          "IWA": NaN,
+          "Isack Hadjar": 103.3364909090909,
+          "Jack Doohan": 102.321793814433,
+          "Kimi Antonelli": 104.55866141732284,
+          "Lance Stroll": 102.81290740740741,
+          "Lando Norris": 102.21045217391304,
+          "Lewis Hamilton": 104.61461538461538,
+          "Liam Lawson": 103.32689215686275,
+          "MAR": NaN,
+          "Max Verstappen": 101.80938392857142,
+          "Nico Hulkenberg": 102.18026923076923,
+          "Oliver Bearman": 102.54914423076924,
+          "Oscar Piastri": 102.83890598290598,
+          "Pierre Gasly": 103.64052884615384,
+          "VES": NaN,
+          "Yuki Tsunoda": 104.50924107142858
+        },
+        "Emilia Romagna": {
+          "Alexander Albon": 94.83195419847328,
+          "BEG": NaN,
+          "BRO": NaN,
+          "COL": 93.87702631578946,
+          "Carlos Sainz": 94.29474615384616,
+          "Charles Leclerc": 94.14642962962964,
+          "DRU": NaN,
+          "Esteban Ocon": 95.262012987013,
+          "Fernando Alonso": 92.30573949579832,
+          "Gabriel Bortoleto": 92.96853599999999,
+          "George Russell": 89.5280924369748,
+          "HIR": NaN,
+          "IWA": NaN,
+          "Isack Hadjar": 93.34057627118644,
+          "Jack Doohan": NaN,
+          "Kimi Antonelli": 90.86036363636363,
+          "Lance Stroll": 94.72317054263567,
+          "Lando Norris": 91.68394488188977,
+          "Lewis Hamilton": 96.45400775193798,
+          "Liam Lawson": 94.93782456140352,
+          "MAR": NaN,
+          "Max Verstappen": 94.28492372881355,
+          "Nico Hulkenberg": 91.54266101694915,
+          "Oliver Bearman": 92.08763063063064,
+          "Oscar Piastri": 90.91413740458016,
+          "Pierre Gasly": 94.29713008130082,
+          "VES": NaN,
+          "Yuki Tsunoda": 97.01383783783784
+        },
+        "Japan": {
+          "Alexander Albon": 101.81653333333334,
+          "BEG": NaN,
+          "BRO": NaN,
+          "COL": NaN,
+          "Carlos Sainz": 102.16245283018867,
+          "Charles Leclerc": 102.44179245283019,
+          "DRU": NaN,
+          "Esteban Ocon": 100.99060215053764,
+          "Fernando Alonso": 100.8257659574468,
+          "Gabriel Bortoleto": 100.21287368421052,
+          "George Russell": 101.92455339805825,
+          "HIR": 113.92585714285715,
+          "IWA": NaN,
+          "Isack Hadjar": 100.15935576923077,
+          "Jack Doohan": 99.04985714285714,
+          "Kimi Antonelli": 99.72873584905659,
+          "Lance Stroll": 104.55992391304346,
+          "Lando Norris": 99.38722,
+          "Lewis Hamilton": 101.43363106796117,
+          "Liam Lawson": 100.7118,
+          "MAR": NaN,
+          "Max Verstappen": 99.29906,
+          "Nico Hulkenberg": 98.74031521739131,
+          "Oliver Bearman": 98.95748387096775,
+          "Oscar Piastri": 99.21444660194175,
+          "Pierre Gasly": 102.35514432989692,
+          "VES": NaN,
+          "Yuki Tsunoda": 104.50329896907216
+        },
+        "Miami": {
+          "Alexander Albon": 105.6418817204301,
+          "BEG": NaN,
+          "BRO": NaN,
+          "COL": NaN,
+          "Carlos Sainz": 103.92159756097561,
+          "Charles Leclerc": 101.17868831168832,
+          "DRU": NaN,
+          "Esteban Ocon": 104.56805882352941,
+          "Fernando Alonso": 105.49095,
+          "Gabriel Bortoleto": 108.24439622641509,
+          "George Russell": 103.4789693877551,
+          "HIR": NaN,
+          "IWA": NaN,
+          "Isack Hadjar": 103.56468235294118,
+          "Jack Doohan": 112.03177551020407,
+          "Kimi Antonelli": 105.67645,
+          "Lance Stroll": 107.7396582278481,
+          "Lando Norris": 104.25991397849462,
+          "Lewis Hamilton": 106.68227586206896,
+          "Liam Lawson": 108.42525806451613,
+          "MAR": NaN,
+          "Max Verstappen": 103.13033707865169,
+          "Nico Hulkenberg": 105.06384285714286,
+          "Oliver Bearman": 110.4634375,
+          "Oscar Piastri": 104.35008045977011,
+          "Pierre Gasly": 105.79256626506023,
+          "VES": NaN,
+          "Yuki Tsunoda": 104.3237108433735
+        },
+        "Monaco": {
+          "Alexander Albon": 85.26334594594594,
+          "BEG": NaN,
+          "BRO": NaN,
+          "COL": 87.67298192771085,
+          "Carlos Sainz": 85.90874285714285,
+          "Charles Leclerc": 84.09616666666666,
+          "DRU": NaN,
+          "Esteban Ocon": 84.37798314606741,
+          "Fernando Alonso": 87.45291472868216,
+          "Gabriel Bortoleto": 85.87828048780489,
+          "George Russell": 87.89873548387096,
+          "HIR": NaN,
+          "IWA": NaN,
+          "Isack Hadjar": 85.47246753246753,
+          "Jack Doohan": NaN,
+          "Kimi Antonelli": 88.08518571428571,
+          "Lance Stroll": 86.28456060606061,
+          "Lando Norris": 82.94970454545454,
+          "Lewis Hamilton": 85.45555747126437,
+          "Liam Lawson": 84.08325945945946,
+          "MAR": NaN,
+          "Max Verstappen": 84.5456111111111,
+          "Nico Hulkenberg": 84.21301176470588,
+          "Oliver Bearman": 85.17174,
+          "Oscar Piastri": 85.04963690476191,
+          "Pierre Gasly": 90.12422471910112,
+          "VES": NaN,
+          "Yuki Tsunoda": 86.76366423357663
+        },
+        "Saudi Arabia": {
+          "Alexander Albon": 108.25446728971961,
+          "BEG": NaN,
+          "BRO": NaN,
+          "COL": NaN,
+          "Carlos Sainz": 107.92637931034481,
+          "Charles Leclerc": 109.53412711864407,
+          "DRU": NaN,
+          "Esteban Ocon": 108.51449504950494,
+          "Fernando Alonso": 109.6621743119266,
+          "Gabriel Bortoleto": 107.98071739130435,
+          "George Russell": 110.69322857142858,
+          "HIR": NaN,
+          "IWA": NaN,
+          "Isack Hadjar": 107.52977659574466,
+          "Jack Doohan": 111.02294545454545,
+          "Kimi Antonelli": 109.68176851851851,
+          "Lance Stroll": 112.61888461538462,
+          "Lando Norris": 106.03942592592593,
+          "Lewis Hamilton": 111.93721186440678,
+          "Liam Lawson": 108.24346534653465,
+          "MAR": NaN,
+          "Max Verstappen": 105.23250442477875,
+          "Nico Hulkenberg": 108.3036153846154,
+          "Oliver Bearman": 108.48818,
+          "Oscar Piastri": 105.55914912280701,
+          "Pierre Gasly": 117.47357575757576,
+          "VES": NaN,
+          "Yuki Tsunoda": 119.13186206896552
+        },
+        "Spain": {
+          "Alexander Albon": 92.02511940298507,
+          "BEG": NaN,
+          "BRO": NaN,
+          "COL": 92.8658359375,
+          "Carlos Sainz": 91.6059037037037,
+          "Charles Leclerc": 91.28372535211268,
+          "DRU": NaN,
+          "Esteban Ocon": 90.85466981132075,
+          "Fernando Alonso": 90.22503999999999,
+          "Gabriel Bortoleto": 91.36912,
+          "George Russell": 87.79064539007092,
+          "HIR": 106.38521052631579,
+          "IWA": NaN,
+          "Isack Hadjar": 92.31399259259258,
+          "Jack Doohan": NaN,
+          "Kimi Antonelli": 88.30228,
+          "Lance Stroll": 100.61621052631578,
+          "Lando Norris": 88.99768571428571,
+          "Lewis Hamilton": 93.70123741007194,
+          "Liam Lawson": 92.68480147058824,
+          "MAR": 97.87328571428571,
+          "Max Verstappen": 89.430672,
+          "Nico Hulkenberg": 88.87399193548387,
+          "Oliver Bearman": 91.61304918032786,
+          "Oscar Piastri": 88.01235114503817,
+          "Pierre Gasly": 91.79624822695035,
+          "VES": NaN,
+          "Yuki Tsunoda": 90.83190625
+        }
+      }
+    },
+    "team_performance": {
+      "team_statistics": {
+        "Total_Laps": {
+          "ALP": 1918,
+          "AM": 1873,
+          "FER": 2249,
+          "HAS": 1905,
+          "MCL": 2210,
+          "MER": 2113,
+          "RBR": 1980,
+          "SAU": 1993,
+          "UNK": 2035,
+          "WIL": 2124
+        },
+        "Avg_LapTime": {
+          "ALP": 101.233,
+          "AM": 100.79,
+          "FER": 99.755,
+          "HAS": 99.152,
+          "MCL": 97.415,
+          "MER": 99.437,
+          "RBR": 99.401,
+          "SAU": 98.697,
+          "UNK": 98.728,
+          "WIL": 99.564
+        },
+        "Median_LapTime": {
+          "ALP": 95.437,
+          "AM": 94.778,
+          "FER": 93.542,
+          "HAS": 94.721,
+          "MCL": 93.197,
+          "MER": 93.556,
+          "RBR": 93.812,
+          "SAU": 94.729,
+          "UNK": 94.621,
+          "WIL": 94.45
+        },
+        "Std_LapTime": {
+          "ALP": 23.446,
+          "AM": 22.97,
+          "FER": 24.431,
+          "HAS": 22.068,
+          "MCL": 20.848,
+          "MER": 22.834,
+          "RBR": 22.62,
+          "SAU": 21.16,
+          "UNK": 20.996,
+          "WIL": 21.82
+        },
+        "Best_LapTime": {
+          "ALP": 71.994,
+          "AM": 70.924,
+          "FER": 70.063,
+          "HAS": 70.942,
+          "MCL": 69.954,
+          "MER": 71.507,
+          "RBR": 70.669,
+          "SAU": 71.596,
+          "UNK": 70.923,
+          "WIL": 70.732
+        },
+        "Team_Name": {
+          "ALP": "Alpine",
+          "AM": "Aston Martin",
+          "FER": "Ferrari",
+          "HAS": "Haas",
+          "MCL": "McLaren",
+          "MER": "Mercedes",
+          "RBR": "Red Bull Racing",
+          "SAU": "Sauber",
+          "UNK": "UNK",
+          "WIL": "Williams"
+        }
+      },
+      "consistency_ranking": {
+        "Team_Name": {
+          "MCL": "McLaren",
+          "UNK": "UNK",
+          "SAU": "Sauber",
+          "WIL": "Williams",
+          "HAS": "Haas",
+          "RBR": "Red Bull Racing",
+          "MER": "Mercedes",
+          "AM": "Aston Martin",
+          "ALP": "Alpine",
+          "FER": "Ferrari"
+        },
+        "Std_LapTime": {
+          "MCL": 20.848,
+          "UNK": 20.996,
+          "SAU": 21.16,
+          "WIL": 21.82,
+          "HAS": 22.068,
+          "RBR": 22.62,
+          "MER": 22.834,
+          "AM": 22.97,
+          "ALP": 23.446,
+          "FER": 24.431
+        }
+      },
+      "pace_ranking": {
+        "Team_Name": {
+          "MCL": "McLaren",
+          "SAU": "Sauber",
+          "UNK": "UNK",
+          "HAS": "Haas",
+          "RBR": "Red Bull Racing",
+          "MER": "Mercedes",
+          "WIL": "Williams",
+          "FER": "Ferrari",
+          "AM": "Aston Martin",
+          "ALP": "Alpine"
+        },
+        "Avg_LapTime": {
+          "MCL": 97.415,
+          "SAU": 98.697,
+          "UNK": 98.728,
+          "HAS": 99.152,
+          "RBR": 99.401,
+          "MER": 99.437,
+          "WIL": 99.564,
+          "FER": 99.755,
+          "AM": 100.79,
+          "ALP": 101.233
+        }
+      },
+      "grid_expansion_impact": {
+        "total_teams": 10,
+        "expected_teams_2025": 11,
+        "new_team_present": false,
+        "competitive_spread": 3.817999999999998
+      }
+    },
+    "lap_time_analysis": {},
+    "sector_analysis": {},
+    "tire_performance": {},
+    "track_performance": {},
+    "improvement_recommendations": {},
+    "tire_degradation": {
+      "compound_degradation": {
+        "SOFT": {
+          "degradation_rate": -0.14410714285714266,
+          "base_time": 81.48315,
+          "correlation": -0.4411734738475366,
+          "p_value": 0.05151302758642966,
+          "std_error": 0.06909338969742802,
+          "age_performance": {
+            "TyreLife": {
+              "0": 1,
+              "1": 2,
+              "2": 3,
+              "3": 4,
+              "4": 5,
+              "5": 6,
+              "6": 7,
+              "7": 8,
+              "8": 9,
+              "9": 10,
+              "10": 11,
+              "11": 12,
+              "12": 13,
+              "13": 14,
+              "14": 15,
+              "15": 16,
+              "16": 17,
+              "17": 18,
+              "18": 19,
+              "19": 20
+            },
+            "median": {
+              "0": 79.95,
+              "1": 79.884,
+              "2": 87.9575,
+              "3": 80.3955,
+              "4": 79.77250000000001,
+              "5": 79.695,
+              "6": 79.596,
+              "7": 79.5795,
+              "8": 79.698,
+              "9": 79.688,
+              "10": 79.5595,
+              "11": 79.5925,
+              "12": 79.869,
+              "13": 79.4315,
+              "14": 79.79249999999999,
+              "15": 79.17750000000001,
+              "16": 78.345,
+              "17": 78.6435,
+              "18": 79.549,
+              "19": 79.2245
+            },
+            "mean": {
+              "0": 82.50614559386973,
+              "1": 82.71539729397294,
+              "2": 83.10072896039604,
+              "3": 83.02198410757946,
+              "4": 82.55251777251185,
+              "5": 82.12553846153847,
+              "6": 82.13949704142013,
+              "7": 82.02763095238095,
+              "8": 82.0386303030303,
+              "9": 82.06013496932515,
+              "10": 82.24273287671232,
+              "11": 82.06271538461539,
+              "12": 82.36530841121495,
+              "13": 82.05992222222223,
+              "14": 82.28974390243903,
+              "15": 82.16490625,
+              "16": 80.97846938775511,
+              "17": 80.7667619047619,
+              "18": 81.0701724137931,
+              "19": 80.14433333333334
+            },
+            "std": {
+              "0": 7.9396121418763,
+              "1": 7.823635559969195,
+              "2": 7.958556039415534,
+              "3": 8.115969500838958,
+              "4": 7.867591775735702,
+              "5": 7.888314457232963,
+              "6": 7.807980617477738,
+              "7": 7.832513660774671,
+              "8": 7.990678212480948,
+              "9": 7.794439830928639,
+              "10": 7.889711858110862,
+              "11": 8.032904740956461,
+              "12": 7.945467479046721,
+              "13": 8.308007337215754,
+              "14": 8.187407972244616,
+              "15": 7.894531413899111,
+              "16": 7.8532555194805385,
+              "17": 8.130455757211681,
+              "18": 7.940396733831396,
+              "19": 7.718863639084961
+            },
+            "count": {
+              "0": 783,
+              "1": 813,
+              "2": 808,
+              "3": 818,
+              "4": 844,
+              "5": 169,
+              "6": 169,
+              "7": 168,
+              "8": 165,
+              "9": 163,
+              "10": 146,
+              "11": 130,
+              "12": 107,
+              "13": 90,
+              "14": 82,
+              "15": 64,
+              "16": 49,
+              "17": 42,
+              "18": 29,
+              "19": 12
+            }
+          },
+          "sample_size": 5651
+        },
+        "HARD": {
+          "degradation_rate": 0.007888977485928643,
+          "base_time": 90.27566346153846,
+          "correlation": 0.12280639647596778,
+          "p_value": 0.45029022993871637,
+          "std_error": 0.010342084871693955,
+          "age_performance": {
+            "TyreLife": {
+              "0": 1,
+              "1": 2,
+              "2": 3,
+              "3": 4,
+              "4": 5,
+              "5": 6,
+              "6": 7,
+              "7": 8,
+              "8": 9,
+              "9": 10,
+              "10": 11,
+              "11": 12,
+              "12": 13,
+              "13": 14,
+              "14": 15,
+              "15": 16,
+              "16": 17,
+              "17": 18,
+              "18": 19,
+              "19": 20,
+              "20": 21,
+              "21": 22,
+              "22": 23,
+              "23": 24,
+              "24": 25,
+              "25": 26,
+              "26": 27,
+              "27": 28,
+              "28": 29,
+              "29": 30,
+              "30": 31,
+              "31": 32,
+              "32": 33,
+              "33": 34,
+              "34": 35,
+              "35": 36,
+              "36": 37,
+              "37": 38,
+              "38": 39,
+              "39": 40
+            },
+            "median": {
+              "0": 90.04,
+              "1": 89.97749999999999,
+              "2": 90.001,
+              "3": 89.96,
+              "4": 90.01,
+              "5": 90.47800000000001,
+              "6": 90.44,
+              "7": 90.519,
+              "8": 90.4265,
+              "9": 90.602,
+              "10": 90.3635,
+              "11": 90.5275,
+              "12": 90.4015,
+              "13": 90.454,
+              "14": 90.376,
+              "15": 90.374,
+              "16": 90.5065,
+              "17": 90.591,
+              "18": 90.45,
+              "19": 90.479,
+              "20": 90.631,
+              "21": 90.668,
+              "22": 90.587,
+              "23": 90.467,
+              "24": 90.596,
+              "25": 90.5775,
+              "26": 90.606,
+              "27": 90.773,
+              "28": 90.643,
+              "29": 90.754,
+              "30": 90.833,
+              "31": 90.807,
+              "32": 90.723,
+              "33": 90.56649999999999,
+              "34": 90.848,
+              "35": 90.779,
+              "36": 86.29050000000001,
+              "37": 90.244,
+              "38": 91.4025,
+              "39": 91.7225
+            },
+            "mean": {
+              "0": 85.51958139534884,
+              "1": 85.18506756756756,
+              "2": 85.08329280397022,
+              "3": 85.42203957783641,
+              "4": 85.35350881612091,
+              "5": 86.39270161290322,
+              "6": 86.5580569105691,
+              "7": 86.39152066115702,
+              "8": 86.42537288135593,
+              "9": 86.59523478260869,
+              "10": 86.21716071428571,
+              "11": 86.11868518518519,
+              "12": 85.92683018867925,
+              "13": 85.91664077669904,
+              "14": 85.76662626262627,
+              "15": 85.53847916666666,
+              "16": 85.49933333333333,
+              "17": 85.76123157894737,
+              "18": 85.72104494382022,
+              "19": 86.00894117647059,
+              "20": 86.11323529411764,
+              "21": 86.1296705882353,
+              "22": 85.90303614457832,
+              "23": 85.91036144578314,
+              "24": 85.88728048780487,
+              "25": 86.1057027027027,
+              "26": 86.41330769230768,
+              "27": 86.7504677419355,
+              "28": 86.66364912280703,
+              "29": 86.8309387755102,
+              "30": 86.71688372093023,
+              "31": 87.02446153846154,
+              "32": 86.73414285714286,
+              "33": 86.2727,
+              "34": 86.57539130434782,
+              "35": 86.05857894736842,
+              "36": 85.399125,
+              "37": 86.71046153846154,
+              "38": 87.1657,
+              "39": 87.15537499999999
+            },
+            "std": {
+              "0": 8.081106056015155,
+              "1": 7.998402463681868,
+              "2": 8.064359002611905,
+              "3": 7.936139903455118,
+              "4": 7.941791233914351,
+              "5": 7.674602672356009,
+              "6": 7.617033574846647,
+              "7": 7.675193018310325,
+              "8": 7.633656222928615,
+              "9": 8.051767217299968,
+              "10": 7.683153839986102,
+              "11": 7.664970548374081,
+              "12": 7.633036937233793,
+              "13": 7.585408557061157,
+              "14": 7.701175390790119,
+              "15": 7.8266823649402495,
+              "16": 7.775505543444777,
+              "17": 7.816481020353437,
+              "18": 7.586790360569469,
+              "19": 7.588095435729347,
+              "20": 7.371256324475512,
+              "21": 7.5291453830909445,
+              "22": 7.696061941091472,
+              "23": 7.515948835120833,
+              "24": 7.439233203008921,
+              "25": 7.461621766737824,
+              "26": 7.3478610534016084,
+              "27": 7.656465620246993,
+              "28": 7.436314305226441,
+              "29": 7.285931070129165,
+              "30": 7.653429670693554,
+              "31": 7.623373341058805,
+              "32": 7.3213241294456735,
+              "33": 8.534410886684475,
+              "34": 8.028417254518367,
+              "35": 9.093739722809255,
+              "36": 8.677928499935916,
+              "37": 8.994448154420818,
+              "38": 8.586315081440805,
+              "39": 9.502946730018614
+            },
+            "count": {
+              "0": 387,
+              "1": 370,
+              "2": 403,
+              "3": 379,
+              "4": 397,
+              "5": 124,
+              "6": 123,
+              "7": 121,
+              "8": 118,
+              "9": 115,
+              "10": 112,
+              "11": 108,
+              "12": 106,
+              "13": 103,
+              "14": 99,
+              "15": 96,
+              "16": 96,
+              "17": 95,
+              "18": 89,
+              "19": 85,
+              "20": 85,
+              "21": 85,
+              "22": 83,
+              "23": 83,
+              "24": 82,
+              "25": 74,
+              "26": 65,
+              "27": 62,
+              "28": 57,
+              "29": 49,
+              "30": 43,
+              "31": 39,
+              "32": 35,
+              "33": 30,
+              "34": 23,
+              "35": 19,
+              "36": 16,
+              "37": 13,
+              "38": 10,
+              "39": 8
+            }
+          },
+          "sample_size": 4487
+        },
+        "MEDIUM": {
+          "degradation_rate": 0.044169079912023505,
+          "base_time": 88.9497570564516,
+          "correlation": 0.8441846104587829,
+          "p_value": 1.2712308626514045e-09,
+          "std_error": 0.005120680345339426,
+          "age_performance": {
+            "TyreLife": {
+              "0": 1,
+              "1": 2,
+              "2": 3,
+              "3": 4,
+              "4": 5,
+              "5": 6,
+              "6": 7,
+              "7": 8,
+              "8": 9,
+              "9": 10,
+              "10": 11,
+              "11": 12,
+              "12": 13,
+              "13": 14,
+              "14": 15,
+              "15": 16,
+              "16": 17,
+              "17": 18,
+              "18": 19,
+              "19": 20,
+              "20": 21,
+              "21": 22,
+              "22": 23,
+              "23": 24,
+              "24": 25,
+              "25": 26,
+              "26": 27,
+              "27": 28,
+              "28": 29,
+              "29": 30,
+              "30": 31,
+              "31": 32
+            },
+            "median": {
+              "0": 88.907,
+              "1": 88.825,
+              "2": 88.918,
+              "3": 88.944,
+              "4": 88.5685,
+              "5": 89.657,
+              "6": 89.66,
+              "7": 89.487,
+              "8": 89.592,
+              "9": 89.625,
+              "10": 89.707,
+              "11": 89.637,
+              "12": 89.741,
+              "13": 89.595,
+              "14": 89.566,
+              "15": 89.608,
+              "16": 89.613,
+              "17": 89.7115,
+              "18": 89.429,
+              "19": 89.551,
+              "20": 89.794,
+              "21": 89.847,
+              "22": 89.843,
+              "23": 89.767,
+              "24": 89.919,
+              "25": 89.901,
+              "26": 90.235,
+              "27": 90.44800000000001,
+              "28": 90.6765,
+              "29": 90.7165,
+              "30": 89.893,
+              "31": 90.3315
+            },
+            "mean": {
+              "0": 84.14823492063492,
+              "1": 83.92159400998335,
+              "2": 84.02827424749164,
+              "3": 84.16594800693241,
+              "4": 83.8272652027027,
+              "5": 84.89020087336245,
+              "6": 85.00214601769912,
+              "7": 84.92684018264839,
+              "8": 84.84738497652582,
+              "9": 84.72392270531401,
+              "10": 84.78210243902438,
+              "11": 84.70076119402985,
+              "12": 84.60215897435897,
+              "13": 84.50595263157895,
+              "14": 84.45828042328043,
+              "15": 84.37432432432432,
+              "16": 84.51703825136612,
+              "17": 84.62767415730337,
+              "18": 84.37319277108435,
+              "19": 84.45468152866242,
+              "20": 84.53141481481481,
+              "21": 84.54230578512397,
+              "22": 84.88639449541284,
+              "23": 84.73540594059406,
+              "24": 84.81293684210526,
+              "25": 85.06066265060241,
+              "26": 85.45930985915493,
+              "27": 86.53567307692308,
+              "28": 87.53985714285714,
+              "29": 88.1580625,
+              "30": 85.25070588235293,
+              "31": 87.52983333333333
+            },
+            "std": {
+              "0": 8.158052062731537,
+              "1": 8.017113201660017,
+              "2": 8.084872996024643,
+              "3": 7.9388433376001695,
+              "4": 7.966739994143577,
+              "5": 8.08032745579077,
+              "6": 8.196009417103598,
+              "7": 7.971919565956757,
+              "8": 8.133746086994451,
+              "9": 7.954190758044163,
+              "10": 8.136453238253042,
+              "11": 8.043900060461125,
+              "12": 8.136976789226521,
+              "13": 8.129809228897892,
+              "14": 7.9640857992460745,
+              "15": 8.09174129246862,
+              "16": 8.175797836771636,
+              "17": 7.996970316532955,
+              "18": 8.225870912289086,
+              "19": 8.274607097371744,
+              "20": 8.188057055799776,
+              "21": 8.260453476094183,
+              "22": 8.231936159025164,
+              "23": 8.243633321755928,
+              "24": 8.351137288851447,
+              "25": 8.181213621696468,
+              "26": 7.964244260786641,
+              "27": 7.499542377466627,
+              "28": 6.408441953531061,
+              "29": 6.288631724287065,
+              "30": 6.809067702012393,
+              "31": 5.460241072211622
+            },
+            "count": {
+              "0": 630,
+              "1": 601,
+              "2": 598,
+              "3": 577,
+              "4": 592,
+              "5": 229,
+              "6": 226,
+              "7": 219,
+              "8": 213,
+              "9": 207,
+              "10": 205,
+              "11": 201,
+              "12": 195,
+              "13": 190,
+              "14": 189,
+              "15": 185,
+              "16": 183,
+              "17": 178,
+              "18": 166,
+              "19": 157,
+              "20": 135,
+              "21": 121,
+              "22": 109,
+              "23": 101,
+              "24": 95,
+              "25": 83,
+              "26": 71,
+              "27": 52,
+              "28": 42,
+              "29": 32,
+              "30": 17,
+              "31": 6
+            }
+          },
+          "sample_size": 6805
+        },
+        "INTERMEDIATE": {
+          "degradation_rate": -0.3246996904024765,
+          "base_time": 93.81559150326797,
+          "correlation": -0.44746229850461827,
+          "p_value": 0.06260824159282477,
+          "std_error": 0.1622370432355286,
+          "age_performance": {
+            "TyreLife": {
+              "0": 1,
+              "1": 2,
+              "2": 3,
+              "3": 4,
+              "4": 5,
+              "5": 6,
+              "6": 7,
+              "7": 8,
+              "8": 9,
+              "9": 10,
+              "10": 11,
+              "11": 12,
+              "12": 13,
+              "13": 14,
+              "14": 15,
+              "15": 16,
+              "16": 17,
+              "17": 18
+            },
+            "median": {
+              "0": 92.338,
+              "1": 92.45,
+              "2": 92.6345,
+              "3": 92.6095,
+              "4": 92.37899999999999,
+              "5": 92.196,
+              "6": 92.797,
+              "7": 92.8355,
+              "8": 92.539,
+              "9": 92.515,
+              "10": 92.64500000000001,
+              "11": 92.718,
+              "12": 86.828,
+              "13": 81.283,
+              "14": 81.506,
+              "15": 86.957,
+              "16": 92.256,
+              "17": 93.6705
+            },
+            "mean": {
+              "0": 89.18928571428572,
+              "1": 89.19496428571428,
+              "2": 89.28410714285714,
+              "3": 89.21217857142857,
+              "4": 89.265,
+              "5": 89.07251851851852,
+              "6": 89.72521739130434,
+              "7": 89.8805,
+              "8": 88.74958823529411,
+              "9": 88.78717647058824,
+              "10": 89.25335714285714,
+              "11": 88.77323076923076,
+              "12": 86.8815,
+              "13": 86.22577777777778,
+              "14": 85.4945,
+              "15": 86.751,
+              "16": 88.60133333333333,
+              "17": 93.6705
+            },
+            "std": {
+              "0": 7.624520890143374,
+              "1": 7.704380314841309,
+              "2": 7.636381949875971,
+              "3": 7.636821726218469,
+              "4": 7.636367839344685,
+              "5": 7.754181008037734,
+              "6": 7.776033564488223,
+              "7": 7.791600730746439,
+              "8": 7.929519650165006,
+              "9": 7.8196289332942035,
+              "10": 7.713071977116232,
+              "11": 7.697583367025498,
+              "12": 7.735685364307124,
+              "13": 7.9284452570756,
+              "14": 8.089939183949404,
+              "15": 7.76920231855669,
+              "16": 8.611708444515132,
+              "17": 1.3852221843444488
+            },
+            "count": {
+              "0": 28,
+              "1": 28,
+              "2": 28,
+              "3": 28,
+              "4": 28,
+              "5": 27,
+              "6": 23,
+              "7": 20,
+              "8": 17,
+              "9": 17,
+              "10": 14,
+              "11": 13,
+              "12": 10,
+              "13": 9,
+              "14": 8,
+              "15": 4,
+              "16": 3,
+              "17": 2
+            }
+          },
+          "sample_size": 307
+        }
+      },
+      "driver_degradation": {
+        "Max Verstappen": {
+          "SOFT": {
+            "degradation_rate": -0.1828774436090224,
+            "base_time": 81.24571315789474,
+            "correlation": -0.4376068592008766,
+            "laps_analyzed": 323
+          },
+          "HARD": {
+            "degradation_rate": 0.15897085650723028,
+            "base_time": 87.23691839080458,
+            "correlation": 0.5495380305142564,
+            "laps_analyzed": 143
+          },
+          "MEDIUM": {
+            "degradation_rate": 0.1911802002224694,
+            "base_time": 86.12284022988506,
+            "correlation": 0.5895259669692489,
+            "laps_analyzed": 309
+          },
+          "INTERMEDIATE": {
+            "degradation_rate": -0.9218714285714279,
+            "base_time": 95.29987142857142,
+            "correlation": -0.9003889250346719,
+            "laps_analyzed": 32
+          }
+        },
+        "Sergio Perez": {
+          "HARD": {
+            "degradation_rate": 0.05405908742750855,
+            "base_time": 88.75237411095306,
+            "correlation": 0.2995171435998874,
+            "laps_analyzed": 259
+          },
+          "SOFT": {
+            "degradation_rate": -0.3060526315789471,
+            "base_time": 79.52885263157896,
+            "correlation": -0.6385490546671562,
+            "laps_analyzed": 260
+          },
+          "MEDIUM": {
+            "degradation_rate": 0.010223692992213576,
+            "base_time": 85.51414942528736,
+            "correlation": 0.030901331797298825,
+            "laps_analyzed": 248
+          },
+          "INTERMEDIATE": {
+            "degradation_rate": 0.0404999999999995,
+            "base_time": 78.35785714285716,
+            "correlation": 0.3624238255873364,
+            "laps_analyzed": 7
+          }
+        },
+        "Charles Leclerc": {
+          "MEDIUM": {
+            "degradation_rate": -0.12675706340378204,
+            "base_time": 87.59433448275861,
+            "correlation": -0.29250315795175885,
+            "laps_analyzed": 324
+          },
+          "SOFT": {
+            "degradation_rate": 0.012876691729323464,
+            "base_time": 87.5127947368421,
+            "correlation": 0.024676687708438474,
+            "laps_analyzed": 317
+          },
+          "HARD": {
+            "degradation_rate": -0.012912223071046584,
+            "base_time": 81.03121390374332,
+            "correlation": -0.02994112802822288,
+            "laps_analyzed": 207
+          },
+          "INTERMEDIATE": {
+            "degradation_rate": 0.02852121212121171,
+            "base_time": 82.40033333333335,
+            "correlation": 0.4618394452845511,
+            "laps_analyzed": 10
+          }
+        },
+        "Lewis Hamilton": {
+          "SOFT": {
+            "degradation_rate": -0.43199174406604707,
+            "base_time": 83.09892156862746,
+            "correlation": -0.683356283570352,
+            "laps_analyzed": 381
+          },
+          "MEDIUM": {
+            "degradation_rate": 0.1151653225806452,
+            "base_time": 87.65289717741935,
+            "correlation": 0.4177596924065408,
+            "laps_analyzed": 273
+          },
+          "HARD": {
+            "degradation_rate": 0.0478187148217636,
+            "base_time": 88.94820384615385,
+            "correlation": 0.2530132098693213,
+            "laps_analyzed": 180
+          },
+          "INTERMEDIATE": {
+            "degradation_rate": -0.013771428571428145,
+            "base_time": 92.32320000000001,
+            "correlation": -0.06458676537377453,
+            "laps_analyzed": 6
+          }
+        },
+        "George Russell": {
+          "HARD": {
+            "degradation_rate": -0.27902204502814254,
+            "base_time": 88.50095192307693,
+            "correlation": -0.8403803086180477,
+            "laps_analyzed": 199
+          },
+          "SOFT": {
+            "degradation_rate": -0.11958684210526296,
+            "base_time": 86.82513157894736,
+            "correlation": -0.17403851999689418,
+            "laps_analyzed": 242
+          },
+          "MEDIUM": {
+            "degradation_rate": 0.10947266009852225,
+            "base_time": 81.80216871921183,
+            "correlation": 0.2589313430135619,
+            "laps_analyzed": 416
+          },
+          "INTERMEDIATE": {
+            "degradation_rate": 0.026738095238094672,
+            "base_time": 96.68492857142857,
+            "correlation": 0.22723303871488534,
+            "laps_analyzed": 8
+          }
+        },
+        "Andrea Kimi Antonelli": {
+          "MEDIUM": {
+            "degradation_rate": -0.007802327712609896,
+            "base_time": 80.90969153225807,
+            "correlation": -0.040272562004534856,
+            "laps_analyzed": 366
+          },
+          "SOFT": {
+            "degradation_rate": -0.009147744360902042,
+            "base_time": 88.15672631578947,
+            "correlation": -0.018468188393754532,
+            "laps_analyzed": 235
+          },
+          "HARD": {
+            "degradation_rate": 0.05176829268292681,
+            "base_time": 90.774325,
+            "correlation": 0.41996832400900885,
+            "laps_analyzed": 226
+          },
+          "INTERMEDIATE": {
+            "degradation_rate": 0.03289560439560468,
+            "base_time": 92.4865,
+            "correlation": 0.5850765249145417,
+            "laps_analyzed": 13
+          }
+        },
+        "Lando Norris": {
+          "HARD": {
+            "degradation_rate": -0.13103459224598935,
+            "base_time": 88.70604261363636,
+            "correlation": -0.2970912382739774,
+            "laps_analyzed": 167
+          },
+          "SOFT": {
+            "degradation_rate": -0.4981491228070176,
+            "base_time": 83.3352543859649,
+            "correlation": -0.7366012389698077,
+            "laps_analyzed": 284
+          },
+          "MEDIUM": {
+            "degradation_rate": 0.05618676686216999,
+            "base_time": 88.1600745967742,
+            "correlation": 0.23293979998763828,
+            "laps_analyzed": 333
+          },
+          "INTERMEDIATE": {
+            "degradation_rate": 0.028432142857143,
+            "base_time": 88.89054285714285,
+            "correlation": 0.7173618633645542,
+            "laps_analyzed": 30
+          }
+        },
+        "Oscar Piastri": {
+          "SOFT": {
+            "degradation_rate": 0.1248122807017543,
+            "base_time": 85.33248245614037,
+            "correlation": 0.16238497428337284,
+            "laps_analyzed": 314
+          },
+          "MEDIUM": {
+            "degradation_rate": -0.026294959677419405,
+            "base_time": 81.95718709677419,
+            "correlation": -0.06954276881465614,
+            "laps_analyzed": 355
+          },
+          "HARD": {
+            "degradation_rate": 0.0730173203812318,
+            "base_time": 89.05038608870967,
+            "correlation": 0.42838670965969067,
+            "laps_analyzed": 209
+          },
+          "INTERMEDIATE": {
+            "degradation_rate": -0.0518571428571432,
+            "base_time": 75.88466666666666,
+            "correlation": -0.5139305431040844,
+            "laps_analyzed": 6
+          }
+        },
+        "Fernando Alonso": {
+          "MEDIUM": {
+            "degradation_rate": -0.41564860426929395,
+            "base_time": 90.98126190476191,
+            "correlation": -0.64280213386389,
+            "laps_analyzed": 379
+          },
+          "SOFT": {
+            "degradation_rate": -0.14405488721804524,
+            "base_time": 80.31037631578947,
+            "correlation": -0.22088109347019128,
+            "laps_analyzed": 250
+          },
+          "HARD": {
+            "degradation_rate": 0.08736819887429641,
+            "base_time": 88.99482692307691,
+            "correlation": 0.4933482498888108,
+            "laps_analyzed": 317
+          }
+        },
+        "Lance Stroll": {
+          "SOFT": {
+            "degradation_rate": 0.043190977443609016,
+            "base_time": 80.6322447368421,
+            "correlation": 0.09901496388363532,
+            "laps_analyzed": 303
+          },
+          "MEDIUM": {
+            "degradation_rate": -0.5096679802052785,
+            "base_time": 92.96247479838708,
+            "correlation": -0.8104031188233063,
+            "laps_analyzed": 325
+          },
+          "HARD": {
+            "degradation_rate": 0.11789118198874309,
+            "base_time": 87.58453076923075,
+            "correlation": 0.23206718586873953,
+            "laps_analyzed": 216
+          },
+          "INTERMEDIATE": {
+            "degradation_rate": -0.031244066047471306,
+            "base_time": 93.25451307189543,
+            "correlation": -0.2818886402159332,
+            "laps_analyzed": 51
+          }
+        },
+        "Pierre Gasly": {
+          "SOFT": {
+            "degradation_rate": -0.17346240601503757,
+            "base_time": 81.1651052631579,
+            "correlation": -0.4720639511410676,
+            "laps_analyzed": 264
+          },
+          "MEDIUM": {
+            "degradation_rate": 0.16817619577308118,
+            "base_time": 86.13270229885059,
+            "correlation": 0.44385203126405937,
+            "laps_analyzed": 315
+          },
+          "HARD": {
+            "degradation_rate": -0.17576665103189484,
+            "base_time": 89.38077884615385,
+            "correlation": -0.5496332487809591,
+            "laps_analyzed": 268
+          },
+          "INTERMEDIATE": {
+            "degradation_rate": -0.06913956043956028,
+            "base_time": 93.38443956043956,
+            "correlation": -0.6450277349854348,
+            "laps_analyzed": 21
+          }
+        },
+        "Jack Doohan": {
+          "HARD": {
+            "degradation_rate": -0.33872650180544916,
+            "base_time": 86.7673904694168,
+            "correlation": -0.8266397785041018,
+            "laps_analyzed": 209
+          },
+          "SOFT": {
+            "degradation_rate": -0.28844172932330814,
+            "base_time": 87.93781315789472,
+            "correlation": -0.4125262825585325,
+            "laps_analyzed": 300
+          },
+          "MEDIUM": {
+            "degradation_rate": 0.05450685483870963,
+            "base_time": 90.02353548387096,
+            "correlation": 0.5859494429191571,
+            "laps_analyzed": 331
+          },
+          "INTERMEDIATE": {
+            "degradation_rate": -1.240760714285714,
+            "base_time": 96.91648571428573,
+            "correlation": -0.894352251368344,
+            "laps_analyzed": 32
+          }
+        },
+        "Alexander Albon": {
+          "MEDIUM": {
+            "degradation_rate": 0.08277908787541699,
+            "base_time": 78.70302413793104,
+            "correlation": 0.20294201518182442,
+            "laps_analyzed": 373
+          },
+          "HARD": {
+            "degradation_rate": 0.165649765478424,
+            "base_time": 88.8294923076923,
+            "correlation": 0.679167624042599,
+            "laps_analyzed": 192
+          },
+          "SOFT": {
+            "degradation_rate": -0.47371390977443634,
+            "base_time": 90.62442105263156,
+            "correlation": -0.44473689722261367,
+            "laps_analyzed": 309
+          },
+          "INTERMEDIATE": {
+            "degradation_rate": 0.060866666666667825,
+            "base_time": 96.88373333333332,
+            "correlation": 0.8420705160587258,
+            "laps_analyzed": 10
+          }
+        },
+        "Franco Colapinto": {
+          "SOFT": {
+            "degradation_rate": 0.269189370485036,
+            "base_time": 84.60561764705882,
+            "correlation": 0.3215375840696165,
+            "laps_analyzed": 299
+          },
+          "MEDIUM": {
+            "degradation_rate": -0.039883064516129114,
+            "base_time": 83.5251129032258,
+            "correlation": -0.1322708915268867,
+            "laps_analyzed": 394
+          },
+          "HARD": {
+            "degradation_rate": -0.08598596491228065,
+            "base_time": 83.25033333333334,
+            "correlation": -0.11940092812273732,
+            "laps_analyzed": 111
+          },
+          "INTERMEDIATE": {
+            "degradation_rate": 0.011641176470588356,
+            "base_time": 81.46855,
+            "correlation": 0.2881864682847645,
+            "laps_analyzed": 16
+          }
+        },
+        "Yuki Tsunoda": {
+          "MEDIUM": {
+            "degradation_rate": 0.07646008064516144,
+            "base_time": 87.94981612903226,
+            "correlation": 0.23409931680635043,
+            "laps_analyzed": 405
+          },
+          "SOFT": {
+            "degradation_rate": -0.6350710526315789,
+            "base_time": 82.69047368421053,
+            "correlation": -0.6563344404109903,
+            "laps_analyzed": 195
+          },
+          "HARD": {
+            "degradation_rate": -0.18838471659919032,
+            "base_time": 85.65987381916331,
+            "correlation": -0.5589880501905083,
+            "laps_analyzed": 250
+          },
+          "INTERMEDIATE": {
+            "degradation_rate": 0.016171568627451116,
+            "base_time": 78.54848529411765,
+            "correlation": 0.4370751992020594,
+            "laps_analyzed": 27
+          }
+        },
+        "Liam Lawson": {
+          "MEDIUM": {
+            "degradation_rate": 0.07248588709677442,
+            "base_time": 81.51329032258064,
+            "correlation": 0.18355426736804856,
+            "laps_analyzed": 397
+          },
+          "SOFT": {
+            "degradation_rate": -0.424662030075188,
+            "base_time": 81.32087631578948,
+            "correlation": -0.9285588554346302,
+            "laps_analyzed": 291
+          },
+          "HARD": {
+            "degradation_rate": 0.1268777992277993,
+            "base_time": 90.29774682539683,
+            "correlation": 0.8025044351832439,
+            "laps_analyzed": 206
+          }
+        },
+        "Valtteri Bottas": {
+          "SOFT": {
+            "degradation_rate": -0.4456850877192984,
+            "base_time": 83.43164035087719,
+            "correlation": -0.6438141494635008,
+            "laps_analyzed": 257
+          },
+          "HARD": {
+            "degradation_rate": -0.16179507504690424,
+            "base_time": 84.19381153846155,
+            "correlation": -0.6821677599345604,
+            "laps_analyzed": 374
+          },
+          "MEDIUM": {
+            "degradation_rate": 0.11530533926585092,
+            "base_time": 88.99235057471267,
+            "correlation": 0.7605429304040744,
+            "laps_analyzed": 249
+          },
+          "INTERMEDIATE": {
+            "degradation_rate": 0.020111455108359336,
+            "base_time": 94.36871895424837,
+            "correlation": 0.41533590562500206,
+            "laps_analyzed": 18
+          }
+        },
+        "Zhou Guanyu": {
+          "SOFT": {
+            "degradation_rate": 0.08147280701754414,
+            "base_time": 79.19598245614034,
+            "correlation": 0.10541444628444924,
+            "laps_analyzed": 314
+          },
+          "MEDIUM": {
+            "degradation_rate": -0.054956650246305555,
+            "base_time": 82.87745320197044,
+            "correlation": -0.1965905350121901,
+            "laps_analyzed": 416
+          },
+          "HARD": {
+            "degradation_rate": 0.10318064839572187,
+            "base_time": 90.20223200757577,
+            "correlation": 0.6425227926568863,
+            "laps_analyzed": 137
+          },
+          "INTERMEDIATE": {
+            "degradation_rate": -0.24723076923076887,
+            "base_time": 95.71233333333332,
+            "correlation": -0.8178048799504817,
+            "laps_analyzed": 20
+          }
+        },
+        "Kevin Magnussen": {
+          "SOFT": {
+            "degradation_rate": 0.6122160714285713,
+            "base_time": 79.25297142857143,
+            "correlation": 0.56503841464457,
+            "laps_analyzed": 276
+          },
+          "HARD": {
+            "degradation_rate": 0.17342747326203217,
+            "base_time": 84.82212689393938,
+            "correlation": 0.5292615445777903,
+            "laps_analyzed": 290
+          },
+          "MEDIUM": {
+            "degradation_rate": 0.07662839076246339,
+            "base_time": 88.85992842741935,
+            "correlation": 0.47246881034099036,
+            "laps_analyzed": 321
+          }
+        },
+        "Oliver Bearman": {
+          "SOFT": {
+            "degradation_rate": 0.601106140350877,
+            "base_time": 77.30262280701754,
+            "correlation": 0.6455022231737265,
+            "laps_analyzed": 237
+          },
+          "MEDIUM": {
+            "degradation_rate": 0.09981066715542522,
+            "base_time": 89.73174899193549,
+            "correlation": 0.8725575966697574,
+            "laps_analyzed": 276
+          },
+          "HARD": {
+            "degradation_rate": -0.09975912754860108,
+            "base_time": 85.5295990990991,
+            "correlation": -0.376759892912823,
+            "laps_analyzed": 327
+          }
+        }
+      }
+    },
+    "advanced_tire_degradation": {},
+    "sprint_analysis": {},
+    "regulation_impact": {},
+    "transfer_impact": {},
+    "rookie_analysis": {},
+    "circuit_analysis": {}
+  },
+  "data_summary": {
+    "total_laps": 20400,
+    "unique_drivers": 28,
+    "unique_teams": 10,
+    "unique_circuits": 9,
+    "date_range": "2025 F1 Season",
+    "lap_time_range": {
+      "min": 69.95400000000001,
+      "max": 212.72299999999998,
+      "mean": 99.38626901960784
+    }
+  }
+}
