@@ -1,0 +1,25 @@
+F1 Tire Degradation Prediction Dataset - Summary
+============================================================
+
+Dataset Size: 32,433 laps
+Total Features: 70
+Years Covered: [2024, 2025]
+Circuits (14): ['Australia', 'Austria', 'Bahrain', 'Belgium', 'Canada', 'China', 'Great Britain', 'Hungary', 'Imola', 'Japan', 'Miami', 'Monaco', 'Saudi Arabia', 'Spain']
+Session Types: ['Practice', 'Qualifying', 'Race', 'Sprint']
+Drivers: 25
+Teams: 10
+
+Data Distribution by Year:
+  2024: 15,249 laps
+  2025: 17,184 laps
+
+Target Variables:
+  DegradationRate: mean=0.1052, std=0.1954
+  PaceDropOff: mean=0.6499, std=0.7659
+  DegradationPercent: mean=0.7884, std=0.9557
+  DegradationCategory distribution: {'Medium': 15378, 'Low': 8782, 'High': 8273}
+
+Recommended Train/Test Splits:
+  Time-based: Train on 2022-2024, Test on 2025
+  Random: 80/20 split with stratification on DegradationCategory
+  Cross-validation: 5-fold with grouping by Driver or Circuit
